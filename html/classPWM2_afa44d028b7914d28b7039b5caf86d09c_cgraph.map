@@ -1,0 +1,7 @@
+<map id="PWM2::Start" name="PWM2::Start">
+<area shape="rect" id="node3" href="$classPWM2.html#ac885ec16bd620fc1228e792ec1abf306" title="Output a square wave with specified duty cycle." alt="" coords="353,10,479,39"/>
+<area shape="rect" id="node5" href="$classPWM2.html#a8c5c2d18077352a9ef7c0063224941d8" title="Output a square wave with specified duty cycle." alt="" coords="353,115,479,144"/>
+<area shape="rect" id="node7" href="$classPWM2.html#aa7be83334fd9fa4d6cf1ad1029f440fb" title="Set a pin to PWM out on." alt="" coords="169,88,287,118"/>
+<area shape="rect" id="node9" href="$classPWM2.html#aa1d40b6aaebbb4cf65a5396ebe28df7c" title="Set a pin to PWM out on." alt="" coords="169,142,287,171"/>
+<area shape="rect" id="node11" href="$classPWM2.html#a3a3022532be4793a5b704df7da3de570" title="Set the frequency to output channel X and Y on." alt="" coords="153,35,303,64"/>
+</map>

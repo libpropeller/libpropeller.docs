@@ -1,0 +1,22 @@
+digraph "UnityTests::test_CTSPinBasic"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="UnityTests::test_CTSPinBasic",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Serial::Stop",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classSerial.html#a206b0e9c801a8df764d03554e6fa16f4",tooltip="Stops the Serial PASM engine, if it is running."];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Serial::Start",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classSerial.html#a445c1fa70cbd44b22c22d15efecc457d",tooltip="Start Serial driver in a new cog."];
+  Node3 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Serial::SetBaud",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classSerial.html#a0e229832a2ae4e04d3423c2e745cb975",tooltip="Does a live update of the baud rate in the Serial engine."];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="Serial::SetBaudClock",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classSerial.html#a174ece60e6a8245422bb9ac27d8edcd8",tooltip="Does a live update of the baud rate in the Serial engine."];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="UnityTests::transmitAlphabet",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classUnityTests.html#ab55ddbb48fe0597b5cd01815bbfdab53"];
+  Node6 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="Serial::Put",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classSerial.html#a9cc9f1300669c411690390b0399db3e9",tooltip="Transmit a single character."];
+  Node1 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="Serial::Get",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classSerial.html#a9ff80fa40c5fd0d6528b1de41b85d6fd",tooltip="Receive a byte (wait) or timeout."];
+}

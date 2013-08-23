@@ -1,0 +1,11 @@
+/**
+\mainpage libpropeller API documentation
+
+This library implements different peripheral devices and useful classes for the
+Parallax P8X32A Propeller microcontroller.
+
+This site is for documentation of the code API. You can browse the available classes under "Classes"
+
+The main site for libpropeller is libpropeller.org (hosted on Github).
+
+*/

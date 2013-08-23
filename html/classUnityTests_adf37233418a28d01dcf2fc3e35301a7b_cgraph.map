@@ -1,0 +1,10 @@
+<map id="UnityTests::test_MultipleUnmounts" name="UnityTests::test_MultipleUnmounts">
+<area shape="rect" id="node3" href="$classSD.html#a717ad876e006c17056c6e8dda6a75bb8" title="Closes any open files, and unmounts the SD card." alt="" coords="223,59,324,88"/>
+<area shape="rect" id="node16" href="$classSD.html#a552ac835c34fe296c151faba7a148f9b" title="Get the error code." alt="" coords="224,112,323,141"/>
+<area shape="rect" id="node5" href="$classSD.html#a3565db73bb04735026ed9ce454eb52eb" title="Flush and close the currently open file if any." alt="" coords="405,5,488,35"/>
+<area shape="rect" id="node13" href="$classSDSafeSPI.html#a7273706623ea9f1c6ee0ecb65e1240db" title="Kill the assembly driver cog." alt="" coords="384,59,509,88"/>
+<area shape="rect" id="node7" href="$classSD.html#ae3d681225cee64a2c7c1722f1cd9b23a" title="Resets the error flag to kNoError." alt="" coords="603,5,709,35"/>
+<area shape="rect" id="node11" href="$classSDSafeSPI.html#ae74174a2ead99e536e2942feb9019b76" title="Release the SPI bus and allow other devices to use it." alt="" coords="569,59,743,88"/>
+<area shape="rect" id="node9" href="$classSDSafeSPI.html#a4608c282f5225c559fa836d9867e6e81" title="Resets the error flag to kNoError." alt="" coords="792,5,949,35"/>
+<area shape="rect" id="node18" href="$classSDSafeSPI.html#a9e1ffae3b9b42e54b50ebab0f37429dd" title="SDSafeSPI::GetError" alt="" coords="373,112,520,141"/>
+</map>

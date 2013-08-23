@@ -1,0 +1,9 @@
+digraph "UnityTests::test_GetVersion"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="UnityTests::test_GetVersion",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="MAX17048::GetVersion",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMAX17048.html#a8f95fa6ed9fb83ce2548eb9a5d5fa994",tooltip="Fetches the hardware version of the MAX17048."];
+}

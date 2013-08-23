@@ -1,0 +1,6 @@
+<map id="UnityTests::test_SetBaudTransmitAfterBaudChange" name="UnityTests::test_SetBaudTransmitAfterBaudChange">
+<area shape="rect" id="node3" href="$classSerial.html#a0e229832a2ae4e04d3423c2e745cb975" title="Does a live update of the baud rate in the Serial engine." alt="" coords="231,5,343,35"/>
+<area shape="rect" id="node7" href="$classSerial.html#a9cc9f1300669c411690390b0399db3e9" title="Transmit a single character." alt="" coords="245,59,328,88"/>
+<area shape="rect" id="node9" href="$classSerial.html#a9ff80fa40c5fd0d6528b1de41b85d6fd" title="Receive a byte (wait) or timeout." alt="" coords="245,112,328,141"/>
+<area shape="rect" id="node5" href="$classSerial.html#a174ece60e6a8245422bb9ac27d8edcd8" title="Does a live update of the baud rate in the Serial engine." alt="" coords="392,5,539,35"/>
+</map>

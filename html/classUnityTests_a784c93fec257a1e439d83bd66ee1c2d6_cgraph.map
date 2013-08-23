@@ -1,0 +1,6 @@
+<map id="UnityTests::test_Start" name="UnityTests::test_Start">
+<area shape="rect" id="node3" href="$classSerial.html#a206b0e9c801a8df764d03554e6fa16f4" title="Stops the Serial PASM engine, if it is running." alt="" coords="356,5,447,35"/>
+<area shape="rect" id="node5" href="$classSerial.html#a445c1fa70cbd44b22c22d15efecc457d" title="Start Serial driver in a new cog." alt="" coords="205,57,296,87"/>
+<area shape="rect" id="node8" href="$classSerial.html#a0e229832a2ae4e04d3423c2e745cb975" title="Does a live update of the baud rate in the Serial engine." alt="" coords="345,59,457,88"/>
+<area shape="rect" id="node10" href="$classSerial.html#a174ece60e6a8245422bb9ac27d8edcd8" title="Does a live update of the baud rate in the Serial engine." alt="" coords="507,59,653,88"/>
+</map>

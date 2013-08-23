@@ -1,0 +1,17 @@
+digraph "UnityTests::helper_TestDuty"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="UnityTests::helper\l_TestDuty",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="PWM32::Duty",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classPWM32.html#a16bdc0141d134afef3e74dc1d74cf285",tooltip="Output a PWM wave with a calculated duty."];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="UnityTests::helper\l_CheckWidths",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classUnityTests.html#ad5f624d6de872f33d3154f6a2d670963"];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="UnityTests::ClockCyclesTo\lMicroseconds",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classUnityTests.html#a152bc9224b7b85619e7a8fa339f7ca8c"];
+  Node3 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="PulseWidthReader::getHighTime",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classPulseWidthReader.html#a80ee5413ff806d866dc60b9f675953d8",tooltip="Get the most recent high pulse duration."];
+  Node3 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="PulseWidthReader::getLowTime",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classPulseWidthReader.html#a25504601b83264f77db5154726b090c5",tooltip="Get the most recent low pulse duration."];
+}

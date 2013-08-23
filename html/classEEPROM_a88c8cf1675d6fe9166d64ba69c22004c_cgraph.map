@@ -1,0 +1,4 @@
+<map id="EEPROM::Put" name="EEPROM::Put">
+<area shape="rect" id="node3" href="$classI2CBase.html#a7cdbdb037ac9b84275d5f0d04476b8ce" title="Output a byte on the I2C bus." alt="" coords="163,5,301,35"/>
+<area shape="rect" id="node5" href="$classI2CBase.html#a0e0b9bc5b9a5a34fa78187e71f3731d1" title="Output a stop condition on the I2C bus." alt="" coords="179,59,285,88"/>
+</map>

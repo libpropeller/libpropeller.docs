@@ -1,0 +1,6 @@
+<map id="vnh2sp30::Init" name="vnh2sp30::Init">
+<area shape="rect" id="node3" href="$classPin.html#a2b3a5a1a6bf26e9f1a65314bda73045a" title="Set pin to output low." alt="" coords="368,5,437,35"/>
+<area shape="rect" id="node5" href="$classvnh2sp30.html#a3459923890f6a7142c092ae973d5793a" title="The direction to rotate the motor." alt="" coords="159,57,316,87"/>
+<area shape="rect" id="node10" href="$classvnh2sp30.html#a24c9e77f18d8040829769fe3da78af9e" title="Set the power delivered to the motor." alt="" coords="167,111,308,140"/>
+<area shape="rect" id="node7" href="$classPin.html#a2a37644e45fdd91d099a969db68630fd" title="Set pin to output high." alt="" coords="367,59,439,88"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="UnityTests::test_MaxBytesCutoffWithMoreBytesInBuffer" name="UnityTests::test_MaxBytesCutoffWithMoreBytesInBuffer">
+<area shape="rect" id="node3" href="$classUnityTests.html#aea87a262e4b5f903dc2b28165f4eddf4" title="UnityTests::FillBuffer" alt="" coords="248,5,395,35"/>
+<area shape="rect" id="node7" href="$classGPSParser.html#aef82c0e21fcfc13c67da657c91089169" title="Gets a NMEA string." alt="" coords="263,59,380,88"/>
+<area shape="rect" id="node5" href="$classSerial.html#a9cc9f1300669c411690390b0399db3e9" title="Transmit a single character." alt="" coords="443,5,525,35"/>
+</map>

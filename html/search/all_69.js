@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['i2c',['I2C',['../classI2C.html',1,'']]],
+  ['i2c_2eh',['i2c.h',['../i2c_8h.html',1,'']]],
+  ['i2c_2etest_2eh',['i2c.test.h',['../i2c_8test_8h.html',1,'']]],
+  ['i2c_5fbase_2eh',['i2c_base.h',['../i2c__base_8h.html',1,'']]],
+  ['i2c_5ffloat_5fscl_5fhigh',['I2C_FLOAT_SCL_HIGH',['../i2c__base_8h.html#a642662851d70d88675477b58d016e9d2',1,'i2c_base.h']]],
+  ['i2c_5ffloat_5fsda_5fhigh',['I2C_FLOAT_SDA_HIGH',['../i2c__base_8h.html#a074947b489822fb1c061f9ac2d59b566',1,'i2c_base.h']]],
+  ['i2c_5fset_5fscl_5flow',['I2C_SET_SCL_LOW',['../i2c__base_8h.html#aea8d81deede7772d388dac22ec95b5ed',1,'i2c_base.h']]],
+  ['i2c_5fset_5fsda_5flow',['I2C_SET_SDA_LOW',['../i2c__base_8h.html#aefdfcc0d1d33257d3604623ff9710fda',1,'i2c_base.h']]],
+  ['i2cbase',['I2CBase',['../classI2CBase.html',1,'']]],
+  ['i2cmock_2eh',['i2cMOCK.h',['../i2cMOCK_8h.html',1,'']]],
+  ['iclear',['iclear',['../quadrature__encoder_8S.html#a3d098ba815a6a75b032c863a21436adf',1,'quadrature_encoder.S']]],
+  ['idx',['Idx',['../quadrature__encoder_8S.html#a2bb3574986ac0b6a40a606093a4d1470',1,'quadrature_encoder.S']]],
+  ['in',['In',['../classMCP3208.html#a37a6e561d33f834f6d14c7c99b1b72b8',1,'MCP3208']]],
+  ['ina',['INA',['../serial_8S.html#a1b6dded7ee5a48973798b158147bc292',1,'serial.S']]],
+  ['inapin',['inApin',['../vnh2sp30_8test_8h.html#a64414266339d29155d63809ab50d5f17',1,'vnh2sp30.test.h']]],
+  ['inbpin',['inBpin',['../vnh2sp30_8test_8h.html#a7351158c8ba3e21d478fb2656b04d9b3',1,'vnh2sp30.test.h']]],
+  ['index',['Index',['../pulse__width__reader_8S.html#a701ef6cd2c63a4400c6bc536d93b789b',1,'pulse_width_reader.S']]],
+  ['init',['Init',['../classEEPROM.html#a6d123a9929a3a6c6de440102b5fa2802',1,'EEPROM::Init()'],['../classI2C.html#a3579abe5e53c7f79f9dc5d02f9c4107a',1,'I2C::Init()'],['../classI2CBase.html#af0433e974b61cbaafed3183b74cb6c39',1,'I2CBase::Init()'],['../classMAX17048.html#a64a82028b3ed7d9de97527cecc1e9960',1,'MAX17048::Init()'],['../classMS5611.html#a4c1409567121f733d6dac1454c1dc5fb',1,'MS5611::Init()'],['../classPCF8523.html#a2c22f48a5a482e7517f75e5c4fcfdf86',1,'PCF8523::Init()'],['../classvnh2sp30.html#af58b5562ceaa2777b8a770ee4cf51343',1,'vnh2sp30::Init(PWM32 *new_pwm, const int new_pwmPin, const int inApin, const int inBpin)'],['../classvnh2sp30.html#a59aaab338509609a2edfbd572b34a74d',1,'vnh2sp30::Init(PWM2 *new_pwm, const PwmChannel new_channel, const int new_pwmPin, const int inApin, const int inBpin)']]],
+  ['inline',['INLINE',['../pin_8h.html#a2eb6f9e0395b47b8d5e3eeae4fe0c116',1,'pin.h']]],
+  ['inline_5f_5f',['INLINE__',['../pwm32_8h.html#a78219eeb59c8d4ad79b22f3f2975ea57',1,'pwm32.h']]],
+  ['input',['input',['../classPin.html#ac4ecc56174770f9e41e28349ebe707a5',1,'Pin']]],
+  ['inputpinmask',['inputPinMask',['../pwm2_8test_8h.html#aa6b1a6c3ae17c5ab9d893a861ee18991',1,'inputPinMask():&#160;pwm2.test.h'],['../pwm32_8test_8h.html#aa6b1a6c3ae17c5ab9d893a861ee18991',1,'inputPinMask():&#160;pwm32.test.h']]],
+  ['iposaddr',['Iposaddr',['../quadrature__encoder_8S.html#aa0bd6b8e7ffd7978f874c30eea9f84f0',1,'quadrature_encoder.S']]],
+  ['isoutput',['isOutput',['../classPin.html#a45f36365fb090a66b15c7265a29eab76',1,'Pin']]]
+];

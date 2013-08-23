@@ -1,0 +1,22 @@
+digraph "UnityTests::test_L3GD20WriteMultipleBytes"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="UnityTests::test_L3GD20Write\lMultipleBytes",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="I2C::Put",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classI2C.html#ac049214532a342b5732609eece614405",tooltip="Put a single byte with the following format:"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="I2CBase::Start",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classI2CBase.html#a16dc0177aab341a936f508e5e91406be",tooltip="Output a start condition on the I2C bus."];
+  Node2 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="I2CBase::SendByte",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classI2CBase.html#a7cdbdb037ac9b84275d5f0d04476b8ce",tooltip="Output a byte on the I2C bus."];
+  Node2 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="I2CBase::Stop",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classI2CBase.html#a0e0b9bc5b9a5a34fa78187e71f3731d1",tooltip="Output a stop condition on the I2C bus."];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="I2C::Get",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classI2C.html#a9b348d058ba1576dee2664e022632106",tooltip="Get a single byte with the following format:"];
+  Node6 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="I2CBase::ReadByte",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classI2CBase.html#a7e6ce0d28db009c9d5ccda75ac669680",tooltip="Get a byte from the I2C bus."];
+  Node6 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

@@ -1,0 +1,5 @@
+<map id="I2C::Ping" name="I2C::Ping">
+<area shape="rect" id="node3" href="$classI2CBase.html#a16dc0177aab341a936f508e5e91406be" title="Output a start condition on the I2C bus." alt="" coords="145,5,255,35"/>
+<area shape="rect" id="node5" href="$classI2CBase.html#a7cdbdb037ac9b84275d5f0d04476b8ce" title="Output a byte on the I2C bus." alt="" coords="131,59,269,88"/>
+<area shape="rect" id="node7" href="$classI2CBase.html#a0e0b9bc5b9a5a34fa78187e71f3731d1" title="Output a stop condition on the I2C bus." alt="" coords="147,112,253,141"/>
+</map>

@@ -1,0 +1,28 @@
+digraph "vnh2sp30::Init"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="vnh2sp30::Init",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Pin::low",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classPin.html#a2b3a5a1a6bf26e9f1a65314bda73045a",tooltip="Set pin to output low."];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="PWM2::SetFrequency",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classPWM2.html#a3a3022532be4793a5b704df7da3de570",tooltip="Set the frequency to output channel X and Y on."];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="PWM2::SetDutyX",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classPWM2.html#ac885ec16bd620fc1228e792ec1abf306",tooltip="Output a square wave with specified duty cycle."];
+  Node3 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="PWM2::SetDutyY",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classPWM2.html#a8c5c2d18077352a9ef7c0063224941d8",tooltip="Output a square wave with specified duty cycle."];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="PWM2::SetPinX",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classPWM2.html#aa7be83334fd9fa4d6cf1ad1029f440fb",tooltip="Set a pin to PWM out on."];
+  Node1 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="Pin::getPin",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classPin.html#acc7565ab1b571a6d1983dbcde05c9160",tooltip="Get the pin number [0..31]."];
+  Node1 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="PWM2::SetPinY",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classPWM2.html#aa1d40b6aaebbb4cf65a5396ebe28df7c",tooltip="Set a pin to PWM out on."];
+  Node1 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="vnh2sp30::SetDirection",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classvnh2sp30.html#a3459923890f6a7142c092ae973d5793a",tooltip="The direction to rotate the motor."];
+  Node9 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="Pin::high",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classPin.html#a2a37644e45fdd91d099a969db68630fd",tooltip="Set pin to output high."];
+  Node9 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="vnh2sp30::SetPower",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classvnh2sp30.html#a24c9e77f18d8040829769fe3da78af9e",tooltip="Set the power delivered to the motor."];
+}
