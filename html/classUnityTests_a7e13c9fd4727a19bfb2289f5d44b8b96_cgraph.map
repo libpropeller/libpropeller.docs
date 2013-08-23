@@ -1,8 +1,0 @@
-<map id="UnityTests::test_pwmLongLow" name="UnityTests::test_pwmLongLow">
-<area shape="rect" id="node3" href="$classUnityTests.html#a97b85899659726361e62b1a118659749" title="UnityTests::helper\l_TestPWM" alt="" coords="257,35,385,82"/>
-<area shape="rect" id="node5" href="$classPWM32.html#ab61dc1de2574fe2e0dcc34c704428180" title="Output a series of square waves with a high time of on_time microseconds, and a period of (on_time + ..." alt="" coords="445,13,555,43"/>
-<area shape="rect" id="node7" href="$classUnityTests.html#ad5f624d6de872f33d3154f6a2d670963" title="UnityTests::helper\l_CheckWidths" alt="" coords="436,66,564,113"/>
-<area shape="rect" id="node9" href="$classUnityTests.html#a152bc9224b7b85619e7a8fa339f7ca8c" title="UnityTests::ClockCyclesTo\lMicroseconds" alt="" coords="628,5,812,51"/>
-<area shape="rect" id="node11" href="$classPulseWidthReader.html#a80ee5413ff806d866dc60b9f675953d8" title="Get the most recent high pulse duration." alt="" coords="613,75,827,104"/>
-<area shape="rect" id="node13" href="$classPulseWidthReader.html#a25504601b83264f77db5154726b090c5" title="Get the most recent low pulse duration." alt="" coords="615,128,825,157"/>
-</map>

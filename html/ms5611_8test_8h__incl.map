@@ -1,8 +1,6 @@
 <map id="ms5611.test.h" name="ms5611.test.h">
-<area shape="rect" id="node5" href="$unity_8h.html" title="unity.h" alt="" coords="445,92,507,121"/>
-<area shape="rect" id="node16" href="$ms5611_8h.html" title="libpropeller/ms5611\l/ms5611.h" alt="" coords="121,83,255,130"/>
-<area shape="rect" id="node7" href="$unity__internals_8h.html" title="unity_internals.h" alt="" coords="389,188,507,217"/>
-<area shape="rect" id="node19" href="$i2c_8h.html" title="libpropeller/i2c/i2c.h" alt="" coords="203,188,339,217"/>
-<area shape="rect" id="node25" href="$stopwatch_8h.html" title="libpropeller/stopwatch\l/stopwatch.h" alt="" coords="32,179,179,226"/>
-<area shape="rect" id="node22" href="$i2c__base_8h.html" title="libpropeller/i2c/i2c\l_base.h" alt="" coords="89,275,215,322"/>
+<area shape="rect" id="node7" href="$ms5611_8h.html" title="libpropeller/ms5611\l/ms5611.h" alt="" coords="108,83,241,130"/>
+<area shape="rect" id="node10" href="$i2c_8h.html" title="libpropeller/i2c/i2c.h" alt="" coords="99,188,235,217"/>
+<area shape="rect" id="node17" href="$stopwatch_8h.html" title="libpropeller/stopwatch\l/stopwatch.h" alt="" coords="259,179,405,226"/>
+<area shape="rect" id="node14" href="$i2c__base_8h.html" title="libpropeller/i2c/i2c\l_base.h" alt="" coords="169,275,295,322"/>
 </map>

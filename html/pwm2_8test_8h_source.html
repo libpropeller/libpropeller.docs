@@ -40,7 +40,6 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
       <li><a href="pages.html"><span>Related&#160;Pages</span></a></li>
-      <li><a href="namespaces.html"><span>Namespaces</span></a></li>
       <li><a href="annotated.html"><span>Classes</span></a></li>
       <li class="current"><a href="files.html"><span>Files</span></a></li>
       <li>
@@ -72,7 +71,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
      onmouseover="return searchBox.OnSearchSelectShow()"
      onmouseout="return searchBox.OnSearchSelectHide()"
      onkeydown="return searchBox.OnSearchSelectKey(event)">
-<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Friends</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(11)"><span class="SelectionMark">&#160;</span>Pages</a></div>
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Pages</a></div>
 
 <!-- iframe showing the search results (closed by default) -->
 <div id="MSearchResultsWindow">
@@ -91,10 +90,10 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="title">pwm2.test.h</div>  </div>
 </div><!--header-->
 <div class="contents">
-<a href="pwm2_8test_8h.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="unity_8h.html">unity.h</a>&quot;</span></div>
+<a href="pwm2_8test_8h.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="preprocessor">#include &quot;unity.h&quot;</span></div>
 <div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="pwm2_8h.html">libpropeller/pwm2/pwm2.h</a>&quot;</span></div>
 <div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="pulse__width__reader_8h.html">libpropeller/pulsewidthreader/pulse_width_reader.h</a>&quot;</span></div>
-<div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="board__unit__tester_8h.html">libpropeller/board/board_unit_tester.h</a>&quot;</span></div>
+<div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;<span class="preprocessor">#include &quot;libpropeller/board/board_unit_tester.h&quot;</span></div>
 <div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;<span class="preprocessor">#include &quot;c++-alloc.h&quot;</span></div>
 <div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;</div>
 <div class="line"><a name="l00007"></a><span class="lineno"><a class="code" href="pwm2_8test_8h.html#a64a9ac3ac3cfdc30011202dc779ff5b1">    7</a></span>&#160;<a class="code" href="classPulseWidthReader.html" title="Record high and low times simultaniously on any number of pins.">PulseWidthReader</a> * <a class="code" href="pwm2_8test_8h.html#a64a9ac3ac3cfdc30011202dc779ff5b1">pwr</a>;</div>
@@ -103,21 +102,21 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;</div>
 <div class="line"><a name="l00011"></a><span class="lineno"><a class="code" href="pwm2_8test_8h.html#a55ee46182904013cf183dc7f376546ff">   11</a></span>&#160;<span class="keyword">const</span> <span class="keywordtype">int</span> <a class="code" href="pwm2_8test_8h.html#a55ee46182904013cf183dc7f376546ff">kFrequency</a> = 1000;</div>
 <div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;</div>
-<div class="line"><a name="l00013"></a><span class="lineno"><a class="code" href="pwm2_8test_8h.html#a34372894b2bb3820036f766b11588371">   13</a></span>&#160;<span class="keyword">const</span> <span class="keywordtype">int</span> <a class="code" href="pwm2_8test_8h.html#a34372894b2bb3820036f766b11588371">outputPin</a> = <a class="code" href="namespaceBoard.html#a388147a8e0f0bdefb1b75e2b36244812">Board::kPinTie1a</a>;</div>
-<div class="line"><a name="l00014"></a><span class="lineno"><a class="code" href="pwm2_8test_8h.html#aa6b1a6c3ae17c5ab9d893a861ee18991">   14</a></span>&#160;<span class="keyword">const</span> <span class="keywordtype">int</span> <a class="code" href="pwm2_8test_8h.html#aa6b1a6c3ae17c5ab9d893a861ee18991">inputPinMask</a> = 1 &lt;&lt; <a class="code" href="namespaceBoard.html#a3a97046bc2d30905c1dfffc156c668b6">Board::kPinTie1b</a>;</div>
+<div class="line"><a name="l00013"></a><span class="lineno"><a class="code" href="pwm2_8test_8h.html#a34372894b2bb3820036f766b11588371">   13</a></span>&#160;<span class="keyword">const</span> <span class="keywordtype">int</span> <a class="code" href="pwm2_8test_8h.html#a34372894b2bb3820036f766b11588371">outputPin</a> = Board::kPinTie1a;</div>
+<div class="line"><a name="l00014"></a><span class="lineno"><a class="code" href="pwm2_8test_8h.html#aa6b1a6c3ae17c5ab9d893a861ee18991">   14</a></span>&#160;<span class="keyword">const</span> <span class="keywordtype">int</span> <a class="code" href="pwm2_8test_8h.html#aa6b1a6c3ae17c5ab9d893a861ee18991">inputPinMask</a> = 1 &lt;&lt; Board::kPinTie1b;</div>
 <div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;</div>
-<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;<span class="keyword">class </span><a class="code" href="classUnityTests.html">UnityTests</a> {</div>
+<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;<span class="keyword">class </span>UnityTests {</div>
 <div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;<span class="keyword">public</span>:</div>
 <div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;</div>
-<div class="line"><a name="l00019"></a><span class="lineno"><a class="code" href="classUnityTests.html#aec98c9f41777f2dbb2ab6227687a6def">   19</a></span>&#160;    <span class="keyword">static</span> <span class="keywordtype">int</span> <a class="code" href="classUnityTests.html#aec98c9f41777f2dbb2ab6227687a6def">MicrosecondsToClockCycles</a>(<span class="keyword">const</span> <span class="keywordtype">int</span> microseconds) {</div>
+<div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;    <span class="keyword">static</span> <span class="keywordtype">int</span> MicrosecondsToClockCycles(<span class="keyword">const</span> <span class="keywordtype">int</span> microseconds) {</div>
 <div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;        <span class="keywordflow">return</span> (CLKFREQ * microseconds) / 1000000;</div>
 <div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;    }</div>
 <div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;</div>
-<div class="line"><a name="l00023"></a><span class="lineno"><a class="code" href="classUnityTests.html#a152bc9224b7b85619e7a8fa339f7ca8c">   23</a></span>&#160;    <span class="keyword">static</span> <span class="keywordtype">int</span> <a class="code" href="classUnityTests.html#a152bc9224b7b85619e7a8fa339f7ca8c">ClockCyclesToMicroseconds</a>(<span class="keyword">const</span> <span class="keywordtype">int</span> clockCycles) {</div>
+<div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;    <span class="keyword">static</span> <span class="keywordtype">int</span> ClockCyclesToMicroseconds(<span class="keyword">const</span> <span class="keywordtype">int</span> clockCycles) {</div>
 <div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;        <span class="keywordflow">return</span> clockCycles / (CLKFREQ / 1000000);</div>
 <div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;    }</div>
 <div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;</div>
-<div class="line"><a name="l00027"></a><span class="lineno"><a class="code" href="classUnityTests.html#a28cf5da40c0d0ab768e63c7afd52232d">   27</a></span>&#160;    <span class="keyword">static</span> <span class="keywordtype">void</span> <a class="code" href="classUnityTests.html#a28cf5da40c0d0ab768e63c7afd52232d">setUp</a>(<span class="keywordtype">void</span>) {</div>
+<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;    <span class="keyword">static</span> <span class="keywordtype">void</span> setUp(<span class="keywordtype">void</span>) {</div>
 <div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;        sut = <span class="keyword">new</span> <a class="code" href="classPWM2.html" title="Run a high speed pulse width modulation (PWM) class that can output up to two channels of duty cycled...">PWM2</a>();</div>
 <div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;        sut-&gt;<a class="code" href="classPWM2.html#afa44d028b7914d28b7039b5caf86d09c" title="Start a PWM driver in a new cog.">Start</a>();</div>
 <div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;        sut-&gt;<a class="code" href="classPWM2.html#aa7be83334fd9fa4d6cf1ad1029f440fb" title="Set a pin to PWM out on.">SetPinX</a>(<a class="code" href="pwm2_8test_8h.html#a34372894b2bb3820036f766b11588371">outputPin</a>);</div>
@@ -130,7 +129,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;</div>
 <div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;    }</div>
 <div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;</div>
-<div class="line"><a name="l00040"></a><span class="lineno"><a class="code" href="classUnityTests.html#a0f76da53032ae09594a709de20dbf602">   40</a></span>&#160;    <span class="keyword">static</span> <span class="keywordtype">void</span> <a class="code" href="classUnityTests.html#a0f76da53032ae09594a709de20dbf602">tearDown</a>(<span class="keywordtype">void</span>) {</div>
+<div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;    <span class="keyword">static</span> <span class="keywordtype">void</span> tearDown(<span class="keywordtype">void</span>) {</div>
 <div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;        sut-&gt;<a class="code" href="classPWM2.html#a3cbacd5c85240859f15b2d087a1227f4" title="Stop the PWM driver (if running)">Stop</a>();</div>
 <div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;        <span class="keyword">delete</span> <a class="code" href="elum_8test_8h.html#a2402e088ebc4c2a9cba2b9e3afe08b58">sut</a>;</div>
 <div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;        sut = NULL;</div>
@@ -141,15 +140,15 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;</div>
 <div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;    }</div>
 <div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;</div>
-<div class="line"><a name="l00051"></a><span class="lineno"><a class="code" href="classUnityTests.html#ad5f624d6de872f33d3154f6a2d670963">   51</a></span>&#160;    <span class="keyword">static</span> <span class="keywordtype">void</span> <a class="code" href="classUnityTests.html#ad5f624d6de872f33d3154f6a2d670963">helper_CheckWidths</a>(<span class="keyword">const</span> <span class="keywordtype">int</span> highMicroseconds, <span class="keyword">const</span> <span class="keywordtype">int</span> lowMicroseconds) {</div>
-<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;        <a class="code" href="unity_8h.html#aafddaa65fae3d8102ce6c9595fae3545">TEST_ASSERT_INT_WITHIN</a>(3, highMicroseconds,</div>
-<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;                <a class="code" href="classUnityTests.html#a152bc9224b7b85619e7a8fa339f7ca8c">ClockCyclesToMicroseconds</a>(pwr-&gt;<a class="code" href="classPulseWidthReader.html#a80ee5413ff806d866dc60b9f675953d8" title="Get the most recent high pulse duration.">getHighTime</a>(0)));</div>
+<div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;    <span class="keyword">static</span> <span class="keywordtype">void</span> helper_CheckWidths(<span class="keyword">const</span> <span class="keywordtype">int</span> highMicroseconds, <span class="keyword">const</span> <span class="keywordtype">int</span> lowMicroseconds) {</div>
+<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;        TEST_ASSERT_INT_WITHIN(3, highMicroseconds,</div>
+<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;                ClockCyclesToMicroseconds(pwr-&gt;<a class="code" href="classPulseWidthReader.html#a80ee5413ff806d866dc60b9f675953d8" title="Get the most recent high pulse duration.">getHighTime</a>(0)));</div>
 <div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;</div>
-<div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;        <a class="code" href="unity_8h.html#aafddaa65fae3d8102ce6c9595fae3545">TEST_ASSERT_INT_WITHIN</a>(3, lowMicroseconds,</div>
-<div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;                <a class="code" href="classUnityTests.html#a152bc9224b7b85619e7a8fa339f7ca8c">ClockCyclesToMicroseconds</a>(pwr-&gt;<a class="code" href="classPulseWidthReader.html#a25504601b83264f77db5154726b090c5" title="Get the most recent low pulse duration.">getLowTime</a>(0)));</div>
+<div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;        TEST_ASSERT_INT_WITHIN(3, lowMicroseconds,</div>
+<div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;                ClockCyclesToMicroseconds(pwr-&gt;<a class="code" href="classPulseWidthReader.html#a25504601b83264f77db5154726b090c5" title="Get the most recent low pulse duration.">getLowTime</a>(0)));</div>
 <div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;    }</div>
 <div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;</div>
-<div class="line"><a name="l00059"></a><span class="lineno"><a class="code" href="classUnityTests.html#a1ddd8092fd26f726c9371983c32ceb64">   59</a></span>&#160;    <span class="keyword">static</span> <span class="keywordtype">void</span> <a class="code" href="classUnityTests.html#a1ddd8092fd26f726c9371983c32ceb64">helper_TestDuty</a>(<span class="keyword">const</span> <span class="keywordtype">int</span> percent) {</div>
+<div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;    <span class="keyword">static</span> <span class="keywordtype">void</span> helper_TestDuty(<span class="keyword">const</span> <span class="keywordtype">int</span> percent) {</div>
 <div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;</div>
 <div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;</div>
 <div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;</div>
@@ -159,20 +158,20 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;</div>
 <div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;        <span class="comment">//while(true){}</span></div>
 <div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;</div>
-<div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;        <a class="code" href="classUnityTests.html#ad5f624d6de872f33d3154f6a2d670963">helper_CheckWidths</a>((periodUs * percent) / 100, (periodUs * (100 - percent)) / 100);</div>
+<div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;        helper_CheckWidths((periodUs * percent) / 100, (periodUs * (100 - percent)) / 100);</div>
 <div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;    }</div>
 <div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;</div>
-<div class="line"><a name="l00072"></a><span class="lineno"><a class="code" href="classUnityTests.html#a587ff5c6a2c99a5ad4a1d8647617ef8a">   72</a></span>&#160;    <span class="keyword">static</span> <span class="keywordtype">void</span> <a class="code" href="classUnityTests.html#a587ff5c6a2c99a5ad4a1d8647617ef8a">test_80PercentDuty</a>(<span class="keywordtype">void</span>) {</div>
-<div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;        <a class="code" href="classUnityTests.html#a1ddd8092fd26f726c9371983c32ceb64">helper_TestDuty</a>(80);</div>
+<div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;    <span class="keyword">static</span> <span class="keywordtype">void</span> test_80PercentDuty(<span class="keywordtype">void</span>) {</div>
+<div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;        helper_TestDuty(80);</div>
 <div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;    }</div>
 <div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;</div>
-<div class="line"><a name="l00076"></a><span class="lineno"><a class="code" href="classUnityTests.html#a0d9e390a7112a44812f060470faf4906">   76</a></span>&#160;    <span class="keyword">static</span> <span class="keywordtype">void</span> <a class="code" href="classUnityTests.html#a0d9e390a7112a44812f060470faf4906">test_20PercentDuty</a>(<span class="keywordtype">void</span>) {</div>
-<div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;        <a class="code" href="classUnityTests.html#a1ddd8092fd26f726c9371983c32ceb64">helper_TestDuty</a>(20);</div>
+<div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;    <span class="keyword">static</span> <span class="keywordtype">void</span> test_20PercentDuty(<span class="keywordtype">void</span>) {</div>
+<div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;        helper_TestDuty(20);</div>
 <div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;</div>
 <div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;    }</div>
 <div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;</div>
-<div class="line"><a name="l00081"></a><span class="lineno"><a class="code" href="classUnityTests.html#afbdbac32e8ea03c1133242dd02193a4f">   81</a></span>&#160;    <span class="keyword">static</span> <span class="keywordtype">void</span> <a class="code" href="classUnityTests.html#afbdbac32e8ea03c1133242dd02193a4f">test_50PercentDuty</a>(<span class="keywordtype">void</span>) {</div>
-<div class="line"><a name="l00082"></a><span class="lineno">   82</span>&#160;        <a class="code" href="classUnityTests.html#a1ddd8092fd26f726c9371983c32ceb64">helper_TestDuty</a>(50);</div>
+<div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160;    <span class="keyword">static</span> <span class="keywordtype">void</span> test_50PercentDuty(<span class="keywordtype">void</span>) {</div>
+<div class="line"><a name="l00082"></a><span class="lineno">   82</span>&#160;        helper_TestDuty(50);</div>
 <div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160;    }</div>
 <div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;</div>
 <div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160;};</div>
@@ -180,7 +179,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div><!-- fragment --></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Fri Aug 23 2013 05:26:09 for libpropeller by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Fri Aug 23 2013 05:32:10 for libpropeller by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.3.1
 </small></address>

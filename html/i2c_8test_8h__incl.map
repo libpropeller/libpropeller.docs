@@ -1,6 +1,4 @@
 <map id="i2c.test.h" name="i2c.test.h">
-<area shape="rect" id="node5" href="$unity_8h.html" title="unity.h" alt="" coords="97,83,158,112"/>
-<area shape="rect" id="node16" href="$i2c_8h.html" title="libpropeller/i2c/i2c.h" alt="" coords="182,83,318,112"/>
-<area shape="rect" id="node7" href="$unity__internals_8h.html" title="unity_internals.h" alt="" coords="172,169,289,199"/>
-<area shape="rect" id="node19" href="$i2c__base_8h.html" title="libpropeller/i2c/i2c\l_base.h" alt="" coords="22,161,148,207"/>
+<area shape="rect" id="node7" href="$i2c_8h.html" title="libpropeller/i2c/i2c.h" alt="" coords="112,83,248,112"/>
+<area shape="rect" id="node11" href="$i2c__base_8h.html" title="libpropeller/i2c/i2c\l_base.h" alt="" coords="118,161,243,207"/>
 </map>

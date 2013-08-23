@@ -1,4 +1,0 @@
-<map id="UnityTests::test_PutCGetC" name="UnityTests::test_PutCGetC">
-<area shape="rect" id="node3" href="$classSerial.html#a9cc9f1300669c411690390b0399db3e9" title="Transmit a single character." alt="" coords="239,5,321,35"/>
-<area shape="rect" id="node5" href="$classSerial.html#a9ff80fa40c5fd0d6528b1de41b85d6fd" title="Receive a byte (wait) or timeout." alt="" coords="239,59,321,88"/>
-</map>

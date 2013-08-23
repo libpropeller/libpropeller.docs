@@ -1,7 +1,0 @@
-<map id="UnityTests::test_Nothing" name="UnityTests::test_Nothing">
-<area shape="rect" id="node3" href="$classvnh2sp30.html#ad78b95598c1f69c97ca71c593ca3618f" title="Set motor speed and direction." alt="" coords="221,59,328,88"/>
-<area shape="rect" id="node5" href="$classvnh2sp30.html#a3459923890f6a7142c092ae973d5793a" title="The direction to rotate the motor." alt="" coords="377,32,535,61"/>
-<area shape="rect" id="node11" href="$classvnh2sp30.html#a24c9e77f18d8040829769fe3da78af9e" title="Set the power delivered to the motor." alt="" coords="385,85,527,115"/>
-<area shape="rect" id="node7" href="$classPin.html#a2a37644e45fdd91d099a969db68630fd" title="Set pin to output high." alt="" coords="585,5,657,35"/>
-<area shape="rect" id="node9" href="$classPin.html#a2b3a5a1a6bf26e9f1a65314bda73045a" title="Set pin to output low." alt="" coords="587,59,656,88"/>
-</map>

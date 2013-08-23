@@ -8,8 +8,6 @@ var searchData=
   ['bits',['Bits',['../mcp3208_8S.html#a21cfba7935523e3e55861b1d11ac30ef',1,'mcp3208.S']]],
   ['bits_5fin',['Bits_in',['../serial_8S.html#acc41d6a1b0ba26da19dfac2b46370850',1,'serial.S']]],
   ['bitticks',['Bitticks',['../full__duplex__serial_8S.html#ad5b835640db9050f524791ed0e4e7c6d',1,'full_duplex_serial.S']]],
-  ['board',['Board',['../namespaceBoard.html',1,'']]],
-  ['board_5funit_5ftester_2eh',['board_unit_tester.h',['../board__unit__tester_8h.html',1,'']]],
   ['buffermask',['buffermask',['../full__duplex__serial_8h.html#ad35a8d72f18b760e5874f0335253cc03',1,'buffermask():&#160;full_duplex_serial.h'],['../full__duplex__serial_8S.html#ad35a8d72f18b760e5874f0335253cc03',1,'buffermask():&#160;full_duplex_serial.S']]],
   ['buffersize',['buffersize',['../full__duplex__serial_8h.html#a0382e2f849deac7d51e6acef1f830ae0',1,'buffersize():&#160;full_duplex_serial.h'],['../full__duplex__serial_8S.html#a0382e2f849deac7d51e6acef1f830ae0',1,'buffersize():&#160;full_duplex_serial.S']]],
   ['bufmsk',['Bufmsk',['../full__duplex__serial_8S.html#a255065fce3c4d471d320357112181334',1,'full_duplex_serial.S']]],

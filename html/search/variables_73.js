@@ -5,7 +5,6 @@ var searchData=
   ['st2',['St2',['../quadrature__encoder_8S.html#ac8b54f330bd1c34cc2d80fd48a7e9f91',1,'quadrature_encoder.S']]],
   ['stack',['stack',['../pulse__width__reader_8test_8h.html#a3f33d861a0e85aa4139c322e8573533e',1,'pulse_width_reader.test.h']]],
   ['stacksize',['stacksize',['../pulse__width__reader_8test_8h.html#ae8bad3c3b3842372ec6e13e624166646',1,'pulse_width_reader.test.h']]],
-  ['startcnt',['StartCNT',['../struct__Unity.html#afcf463f9355d681336ad5eadffd1d7d8',1,'_Unity']]],
   ['startday',['startDay',['../pcf8523_8test_8h.html#a75032aaa1451117ebd5e966c46078723',1,'pcf8523.test.h']]],
   ['starthour',['startHour',['../pcf8523_8test_8h.html#a350dbf1fa78ed7c8977658c5d5559bf8',1,'pcf8523.test.h']]],
   ['startminute',['startMinute',['../pcf8523_8test_8h.html#a627c7b6f3e72ccea215f512495433115',1,'pcf8523.test.h']]],

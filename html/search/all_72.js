@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['randomaddress',['RandomAddress',['../classUnityTests.html#ac3b1cb1639a2419d574fc4806a26d407',1,'UnityTests::RandomAddress()'],['../i2c_8test_8h.html#a8f59000801db9fd45bce0a4a8f5b6556',1,'randomAddress():&#160;i2c.test.h']]],
+  ['randomaddress',['randomAddress',['../i2c_8test_8h.html#a8f59000801db9fd45bce0a4a8f5b6556',1,'i2c.test.h']]],
   ['readblock',['ReadBlock',['../classSDSafeSPI.html#ae5fdb2d48b2b578050a611e79250090f',1,'SDSafeSPI']]],
   ['readbyte',['ReadByte',['../classI2C.html#a27d68f86cd92cb57ca9e628a0f3b1878',1,'I2C::ReadByte()'],['../classI2CBase.html#a7e6ce0d28db009c9d5ccda75ac669680',1,'I2CBase::ReadByte()']]],
   ['readlastrecord',['Readlastrecord',['../pulse__width__reader_8S.html#a1d10e6f155213d3cc23a45d4170c00f8',1,'pulse_width_reader.S']]],
@@ -15,8 +15,6 @@ var searchData=
   ['reverse',['Reverse',['../classNumbers.html#aece35044b3a518cf718313c9b327cb79',1,'Numbers::Reverse()'],['../classvnh2sp30.html#a4b8c5d770e062c66daed41ac79bb08baaf00a2efe7abdd871c3ff38c82ae2ffa0',1,'vnh2sp30::REVERSE()']]],
   ['rtspin',['rtspin',['../serial_8test_8h.html#a09a551f33b8d178416c051bc813ccd58',1,'serial.test.h']]],
   ['run',['Run',['../classScheduler.html#ae2767f8b1f033c1b4380dd7b7007f593',1,'Scheduler']]],
-  ['run_5fsquarewavetest',['run_SquareWaveTest',['../classUnityTests.html#aa24d2b872939c7c0f2a8d539dd0c0a6b',1,'UnityTests']]],
-  ['run_5ftest',['RUN_TEST',['../unity_8h.html#adf6ac3cedcffee24554b13664adf68a4',1,'unity.h']]],
   ['runcog',['runCog',['../pulse__width__reader_8test_8h.html#ad41c4fe11a28c222a4d7dab98c714575',1,'pulse_width_reader.test.h']]],
   ['rx_5fptr',['Rx_ptr',['../serial_8S.html#a7ab4f73c21fe0aa7a9ece1f12b6325ff',1,'serial.S']]],
   ['rxbits',['Rxbits',['../full__duplex__serial_8S.html#af0912bfcec718ce62035d3e21adb18a6',1,'full_duplex_serial.S']]],

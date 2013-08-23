@@ -1,7 +1,4 @@
 <map id="pwm2.test.h" name="pwm2.test.h">
-<area shape="rect" id="node3" href="$unity_8h.html" title="unity.h" alt="" coords="333,92,395,121"/>
-<area shape="rect" id="node15" href="$pwm2_8h.html" title="libpropeller/pwm2/pwm2.h" alt="" coords="5,188,179,217"/>
-<area shape="rect" id="node18" href="$pulse__width__reader_8h.html" title="libpropeller/pulsewidthreader\l/pulse_width_reader.h" alt="" coords="203,179,389,226"/>
-<area shape="rect" id="node21" href="$board__unit__tester_8h.html" title="libpropeller/board\l/board_unit_tester.h" alt="" coords="419,83,555,130"/>
-<area shape="rect" id="node5" href="$unity__internals_8h.html" title="unity_internals.h" alt="" coords="413,188,531,217"/>
+<area shape="rect" id="node5" href="$pwm2_8h.html" title="libpropeller/pwm2/pwm2.h" alt="" coords="91,92,264,121"/>
+<area shape="rect" id="node9" href="$pulse__width__reader_8h.html" title="libpropeller/pulsewidthreader\l/pulse_width_reader.h" alt="" coords="288,83,475,130"/>
 </map>

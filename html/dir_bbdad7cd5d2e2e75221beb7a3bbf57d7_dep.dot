@@ -1,0 +1,9 @@
+digraph "max8819" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_34d10b20358c807fff993149200b6a31 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="libpropeller" fontname="Helvetica", fontsize="10", URL="dir_34d10b20358c807fff993149200b6a31.html"]
+  dir_bbdad7cd5d2e2e75221beb7a3bbf57d7 [shape=box, label="max8819", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_bbdad7cd5d2e2e75221beb7a3bbf57d7.html"];
+  }
+}

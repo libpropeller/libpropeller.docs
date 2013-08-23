@@ -1,7 +1,6 @@
 var searchData=
 [
   ['fade',['Fade',['../classElum.html#a51a6ba0ca4deb7f564b32efbdc325bf1',1,'Elum']]],
-  ['fillbuffer',['FillBuffer',['../classUnityTests.html#aea87a262e4b5f903dc2b28165f4eddf4',1,'UnityTests::FillBuffer(const char letter)'],['../classUnityTests.html#aef0e0eceb6da36a79de98ada8bd87bff',1,'UnityTests::FillBuffer(const char *string)']]],
   ['first',['First',['../pulse__width__reader_8S.html#acfb4457d6aa3788204ebee6120480837',1,'pulse_width_reader.S']]],
   ['flash',['Flash',['../classElum.html#a5c36946cf6ae3fd0dbb0870e0dff65a3',1,'Elum']]],
   ['forward',['FORWARD',['../classvnh2sp30.html#a4b8c5d770e062c66daed41ac79bb08baa4b97bd8af46588af804658716e87ccd5',1,'vnh2sp30']]],
@@ -10,7 +9,5 @@ var searchData=
   ['full_5fduplex_5fserial_2eh',['full_duplex_serial.h',['../full__duplex__serial_8h.html',1,'']]],
   ['full_5fduplex_5fserial_2es',['full_duplex_serial.S',['../full__duplex__serial_8S.html',1,'']]],
   ['full_5fduplex_5fserial_2etest_2eh',['full_duplex_serial.test.h',['../full__duplex__serial_8test_8h.html',1,'']]],
-  ['fullduplexserial',['FullDuplexSerial',['../classFullDuplexSerial.html',1,'']]],
-  ['functionthatends',['FunctionThatEnds',['../classUnityTests.html#a04359da38acb0f54125d31d77b6d3200',1,'UnityTests']]],
-  ['functionthatendswithcogstop',['FunctionThatEndsWithCogstop',['../classUnityTests.html#a101057f8ac64866d28f005beb7f3993a',1,'UnityTests']]]
+  ['fullduplexserial',['FullDuplexSerial',['../classFullDuplexSerial.html',1,'']]]
 ];

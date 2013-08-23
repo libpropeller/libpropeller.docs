@@ -1,4 +1,0 @@
-<map id="UnityTests::test_GetFlushEmptyBuffer" name="UnityTests::test_GetFlushEmptyBuffer">
-<area shape="rect" id="node3" href="$classSerial.html#a9ff80fa40c5fd0d6528b1de41b85d6fd" title="Receive a byte (wait) or timeout." alt="" coords="247,5,329,35"/>
-<area shape="rect" id="node5" href="$classSerial.html#a971a1d267547f1fc0df1f58c1a4eb18d" title="Flushes receive buffer." alt="" coords="231,59,345,88"/>
-</map>

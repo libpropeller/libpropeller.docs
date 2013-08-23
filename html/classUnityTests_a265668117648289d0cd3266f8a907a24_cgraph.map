@@ -1,8 +1,0 @@
-<map id="UnityTests::test_L3GD20WriteMultipleBytesButOnlyOne" name="UnityTests::test_L3GD20WriteMultipleBytesButOnlyOne">
-<area shape="rect" id="node3" href="$classI2C.html#ac049214532a342b5732609eece614405" title="Put a single byte with the following format:" alt="" coords="257,59,327,88"/>
-<area shape="rect" id="node11" href="$classI2C.html#a9b348d058ba1576dee2664e022632106" title="Get a single byte with the following format:" alt="" coords="256,112,328,141"/>
-<area shape="rect" id="node5" href="$classI2CBase.html#a16dc0177aab341a936f508e5e91406be" title="Output a start condition on the I2C bus." alt="" coords="391,5,500,35"/>
-<area shape="rect" id="node7" href="$classI2CBase.html#a7cdbdb037ac9b84275d5f0d04476b8ce" title="Output a byte on the I2C bus." alt="" coords="376,59,515,88"/>
-<area shape="rect" id="node9" href="$classI2CBase.html#a0e0b9bc5b9a5a34fa78187e71f3731d1" title="Output a stop condition on the I2C bus." alt="" coords="392,112,499,141"/>
-<area shape="rect" id="node15" href="$classI2CBase.html#a7e6ce0d28db009c9d5ccda75ac669680" title="Get a byte from the I2C bus." alt="" coords="376,165,515,195"/>
-</map>

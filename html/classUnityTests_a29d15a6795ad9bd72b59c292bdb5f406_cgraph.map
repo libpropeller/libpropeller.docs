@@ -1,8 +1,0 @@
-<map id="UnityTests::test_PutGetShort" name="UnityTests::test_PutGetShort">
-<area shape="rect" id="node3" href="$classEEPROM.html#a6d123a9929a3a6c6de440102b5fa2802" title="Initialize an EEPROM instance." alt="" coords="272,5,379,35"/>
-<area shape="rect" id="node7" href="$classEEPROM.html#a79ea6cd1d347be0ad348f4a8a2fd16d6" title="Write up to 4 bytes to a memory location." alt="" coords="248,59,403,88"/>
-<area shape="rect" id="node11" href="$classEEPROM.html#a926871a3b7d5bf9bc053bbcc636f43aa" title="Get up to 4 bytes from the EEPROM and concatenate them into a single int." alt="" coords="248,112,403,141"/>
-<area shape="rect" id="node5" href="$classI2CBase.html#af0433e974b61cbaafed3183b74cb6c39" title="Set the IO Pins to float high." alt="" coords="456,5,555,35"/>
-<area shape="rect" id="node9" href="$classEEPROM.html#a2bacf20e9fcb2429e96729b5d71d0579" title="Put a byte into the EEPROM." alt="" coords="452,59,559,88"/>
-<area shape="rect" id="node13" href="$classEEPROM.html#af24c313a2c7c9433c3e085d8bbbb137e" title="Get a single byte from the EEPROM." alt="" coords="451,112,560,141"/>
-</map>

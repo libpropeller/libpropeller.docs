@@ -1,9 +1,0 @@
-<map id="UnityTests::test_OpenNonexistentFileForRead" name="UnityTests::test_OpenNonexistentFileForRead">
-<area shape="rect" id="node3" href="$classSD.html#a95cbb406b7742bd4daf2438aff9b15d3" title="Close any currently open file, and open a new one with the given file name and mode." alt="" coords="288,32,368,61"/>
-<area shape="rect" id="node13" href="$classSD.html#ac757d23593cdffa8963d44c402616ab5" title="If there was an error in the SD routines then this function will return an error code." alt="" coords="277,85,379,115"/>
-<area shape="rect" id="node5" href="$classSD.html#a3565db73bb04735026ed9ce454eb52eb" title="Flush and close the currently open file if any." alt="" coords="461,32,544,61"/>
-<area shape="rect" id="node7" href="$classSD.html#ae3d681225cee64a2c7c1722f1cd9b23a" title="Resets the error flag to kNoError." alt="" coords="661,5,768,35"/>
-<area shape="rect" id="node11" href="$classSDSafeSPI.html#ae74174a2ead99e536e2942feb9019b76" title="Release the SPI bus and allow other devices to use it." alt="" coords="628,59,801,88"/>
-<area shape="rect" id="node9" href="$classSDSafeSPI.html#a4608c282f5225c559fa836d9867e6e81" title="Resets the error flag to kNoError." alt="" coords="851,5,1008,35"/>
-<area shape="rect" id="node15" href="$classSDSafeSPI.html#a2c58e3f57f90f70ea094409f3dbcab0b" title="If there was an error in the SD routines then this function will return an error code." alt="" coords="428,85,577,115"/>
-</map>

@@ -1,0 +1,9 @@
+digraph "fullduplexserial" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_34d10b20358c807fff993149200b6a31 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="libpropeller" fontname="Helvetica", fontsize="10", URL="dir_34d10b20358c807fff993149200b6a31.html"]
+  dir_4f92f843403dcdb72503fac8262c592b [shape=box, label="fullduplexserial", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_4f92f843403dcdb72503fac8262c592b.html"];
+  }
+}

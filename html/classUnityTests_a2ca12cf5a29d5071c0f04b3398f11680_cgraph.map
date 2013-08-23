@@ -1,9 +1,0 @@
-<map id="UnityTests::test_EvenSquareWave" name="UnityTests::test_EvenSquareWave">
-<area shape="rect" id="node3" href="$classUnityTests.html#aa24d2b872939c7c0f2a8d539dd0c0a6b" title="UnityTests::run_SquareWaveTest" alt="" coords="284,120,503,149"/>
-<area shape="rect" id="node5" href="$classUnityTests.html#af32842ae5ec8a0ffb4e76211277a60f0" title="UnityTests::cog_RunSquare\lWaveOutput" alt="" coords="565,50,752,97"/>
-<area shape="rect" id="node13" href="$classPulseWidthReader.html#a80ee5413ff806d866dc60b9f675953d8" title="Get the most recent high pulse duration." alt="" coords="552,120,765,149"/>
-<area shape="rect" id="node15" href="$classPulseWidthReader.html#a25504601b83264f77db5154726b090c5" title="Get the most recent low pulse duration." alt="" coords="553,173,764,203"/>
-<area shape="rect" id="node7" href="$pulse__width__reader_8test_8h.html#ab25b70936f8dbdfe579fda3c1ebc6a01" title="sqwOutputPin1" alt="" coords="815,5,924,35"/>
-<area shape="rect" id="node9" href="$classPin.html#a2a37644e45fdd91d099a969db68630fd" title="Set pin to output high." alt="" coords="833,59,905,88"/>
-<area shape="rect" id="node11" href="$classPin.html#a2b3a5a1a6bf26e9f1a65314bda73045a" title="Set pin to output low." alt="" coords="835,112,904,141"/>
-</map>

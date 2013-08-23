@@ -10,9 +10,5 @@ var searchData=
   ['ctrb',['CTRB',['../mcp3208_8S.html#aad38957c52e6099e914ad4d73b6ee692',1,'CTRB():&#160;mcp3208.S'],['../pwm2_8S.html#aa111030b9c664e157493f1db579604a7',1,'CTRB():&#160;pwm2.S'],['../serial_8S.html#aed131bd7cc9283418b7ced3be0102e75',1,'CTRB():&#160;serial.S']]],
   ['ctrbval',['Ctrbval',['../pwm2_8S.html#a1de2867f64a172dad287759cfccea7d9',1,'pwm2.S']]],
   ['ctrbvaladdr',['Ctrbvaladdr',['../pwm2_8S.html#a69a9207a32a4b9d0c8dd1c148c3bdb44',1,'pwm2.S']]],
-  ['ctspin',['ctspin',['../serial_8test_8h.html#a6428b0308d4866f659a99ecbc56b623e',1,'serial.test.h']]],
-  ['currenttestfailed',['CurrentTestFailed',['../struct__Unity.html#aa371f1a838cb989a3c81f48b30b6dca9',1,'_Unity']]],
-  ['currenttestignored',['CurrentTestIgnored',['../struct__Unity.html#a320326133842a6b4a2f6f617e1d70467',1,'_Unity']]],
-  ['currenttestlinenumber',['CurrentTestLineNumber',['../struct__Unity.html#a00ac8391d19e021577a3351e4b38cc3e',1,'_Unity']]],
-  ['currenttestname',['CurrentTestName',['../struct__Unity.html#a5dbcf15b6ce38af831a25fc51e6e777f',1,'_Unity']]]
+  ['ctspin',['ctspin',['../serial_8test_8h.html#a6428b0308d4866f659a99ecbc56b623e',1,'serial.test.h']]]
 ];

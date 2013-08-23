@@ -1,6 +1,0 @@
-<map id="UnityTests::test_PageReadWrite" name="UnityTests::test_PageReadWrite">
-<area shape="rect" id="node3" href="$classEEPROM.html#a6d123a9929a3a6c6de440102b5fa2802" title="Initialize an EEPROM instance." alt="" coords="239,5,345,35"/>
-<area shape="rect" id="node7" href="$classEEPROM.html#a2bacf20e9fcb2429e96729b5d71d0579" title="Put a byte into the EEPROM." alt="" coords="239,59,345,88"/>
-<area shape="rect" id="node9" href="$classEEPROM.html#af24c313a2c7c9433c3e085d8bbbb137e" title="Get a single byte from the EEPROM." alt="" coords="237,112,347,141"/>
-<area shape="rect" id="node5" href="$classI2CBase.html#af0433e974b61cbaafed3183b74cb6c39" title="Set the IO Pins to float high." alt="" coords="395,5,493,35"/>
-</map>

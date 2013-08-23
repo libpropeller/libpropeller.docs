@@ -1,8 +1,0 @@
-<map id="UnityTests::test_GetFilesizeNothing" name="UnityTests::test_GetFilesizeNothing">
-<area shape="rect" id="node3" href="$classSD.html#a95cbb406b7742bd4daf2438aff9b15d3" title="Close any currently open file, and open a new one with the given file name and mode." alt="" coords="260,5,340,35"/>
-<area shape="rect" id="node5" href="$classSD.html#a3565db73bb04735026ed9ce454eb52eb" title="Flush and close the currently open file if any." alt="" coords="405,32,488,61"/>
-<area shape="rect" id="node14" href="$classSD.html#a146c254ab69f23b446554613a0488788" title="SD::GetFilesize" alt="" coords="243,109,357,139"/>
-<area shape="rect" id="node7" href="$classSD.html#ae3d681225cee64a2c7c1722f1cd9b23a" title="Resets the error flag to kNoError." alt="" coords="571,5,677,35"/>
-<area shape="rect" id="node11" href="$classSDSafeSPI.html#ae74174a2ead99e536e2942feb9019b76" title="Release the SPI bus and allow other devices to use it." alt="" coords="537,59,711,88"/>
-<area shape="rect" id="node9" href="$classSDSafeSPI.html#a4608c282f5225c559fa836d9867e6e81" title="Resets the error flag to kNoError." alt="" coords="760,5,917,35"/>
-</map>

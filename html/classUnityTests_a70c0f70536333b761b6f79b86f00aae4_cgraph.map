@@ -1,9 +1,0 @@
-<map id="UnityTests::test_CTSPinBasic" name="UnityTests::test_CTSPinBasic">
-<area shape="rect" id="node3" href="$classSerial.html#a206b0e9c801a8df764d03554e6fa16f4" title="Stops the Serial PASM engine, if it is running." alt="" coords="508,5,599,35"/>
-<area shape="rect" id="node5" href="$classSerial.html#a445c1fa70cbd44b22c22d15efecc457d" title="Start Serial driver in a new cog." alt="" coords="307,57,397,87"/>
-<area shape="rect" id="node12" href="$classUnityTests.html#ab55ddbb48fe0597b5cd01815bbfdab53" title="UnityTests::transmitAlphabet" alt="" coords="256,111,448,140"/>
-<area shape="rect" id="node16" href="$classSerial.html#a9ff80fa40c5fd0d6528b1de41b85d6fd" title="Receive a byte (wait) or timeout." alt="" coords="311,164,393,193"/>
-<area shape="rect" id="node8" href="$classSerial.html#a0e229832a2ae4e04d3423c2e745cb975" title="Does a live update of the baud rate in the Serial engine." alt="" coords="497,59,609,88"/>
-<area shape="rect" id="node10" href="$classSerial.html#a174ece60e6a8245422bb9ac27d8edcd8" title="Does a live update of the baud rate in the Serial engine." alt="" coords="659,59,805,88"/>
-<area shape="rect" id="node14" href="$classSerial.html#a9cc9f1300669c411690390b0399db3e9" title="Transmit a single character." alt="" coords="512,112,595,141"/>
-</map>

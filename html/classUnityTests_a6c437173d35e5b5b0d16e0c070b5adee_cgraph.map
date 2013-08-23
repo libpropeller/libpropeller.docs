@@ -1,6 +1,0 @@
-<map id="UnityTests::test_Ouput" name="UnityTests::test_Ouput">
-<area shape="rect" id="node3" href="$classPin.html#ac25c70138813270bc758e49fd35d3b1e" title="Output a value on the pin." alt="" coords="213,32,299,61"/>
-<area shape="rect" id="node9" href="$classPin.html#ac4ecc56174770f9e41e28349ebe707a5" title="Set the pin to input and get it&#39;s value." alt="" coords="217,85,295,115"/>
-<area shape="rect" id="node5" href="$classPin.html#a2a37644e45fdd91d099a969db68630fd" title="Set pin to output high." alt="" coords="348,5,420,35"/>
-<area shape="rect" id="node7" href="$classPin.html#a2b3a5a1a6bf26e9f1a65314bda73045a" title="Set pin to output low." alt="" coords="349,59,419,88"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="UnityAssertEqualString" name="UnityAssertEqualString">
-<area shape="rect" id="node3" href="$unity_8cpp.html#a94410c34386a3161f9174d69cf26ac76" title="UnityTestResultsFailBegin" alt="" coords="213,57,392,87"/>
-<area shape="rect" id="node14" href="$unity_8cpp.html#a904a767a990f5acf7f75bf1ff0ce1e5f" title="UnityPrintExpectedAndActual\lStrings" alt="" coords="440,109,635,155"/>
-<area shape="rect" id="node17" href="$unity_8cpp.html#a34030eb3a0d649085e1f79769474cad5" title="UnityAddMsgIfSpecified" alt="" coords="221,173,384,203"/>
-<area shape="rect" id="node5" href="$unity_8cpp.html#a3592c36ac5669c5fb9c115b5746bacc4" title="UnityTestResultsBegin" alt="" coords="459,5,616,35"/>
-<area shape="rect" id="node7" href="$unity_8cpp.html#accff2eb4cfd0273e8ad62c37639d3e3c" title="UnityPrint" alt="" coords="707,88,787,117"/>
-<area shape="rect" id="node11" href="$unity_8cpp.html#af75b03ae890cb5b0a63e3dc5352724c1" title="basically do an itoa using as little ram as possible" alt="" coords="684,5,809,35"/>
-<area shape="rect" id="node9" href="$unity_8cpp.html#ae7690e1ec1db8aa92757c997b27c71e9" title="UnityPrintNumberHex" alt="" coords="860,88,1009,117"/>
-</map>

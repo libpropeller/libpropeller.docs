@@ -14,7 +14,6 @@ var searchData=
   ['mcp3208_2es',['mcp3208.S',['../mcp3208_8S.html',1,'']]],
   ['mcp3208_2etest_2eh',['mcp3208.test.h',['../mcp3208_8test_8h.html',1,'']]],
   ['medium',['MEDIUM',['../classMax8819.html#aaebcaac689a1da2c31756575bc6f2432aad0ccc3006f638f01bf40f968eef34af',1,'Max8819']]],
-  ['microsecondstoclockcycles',['MicrosecondsToClockCycles',['../classUnityTests.html#aec98c9f41777f2dbb2ab6227687a6def',1,'UnityTests::MicrosecondsToClockCycles(const int microseconds)'],['../classUnityTests.html#aec98c9f41777f2dbb2ab6227687a6def',1,'UnityTests::MicrosecondsToClockCycles(const int microseconds)']]],
   ['mount',['Mount',['../classSD.html#a060b14479082f34827e118b885808985',1,'SD::Mount(const int basepin)'],['../classSD.html#a1a5349621050ebe2c3df5a815f334736',1,'SD::Mount(const int pin_do, const int pin_clk, const int pin_di, const int pin_cs)']]],
   ['mov',['mov',['../quadrature__encoder_8S.html#a4bf7c397da44c76d58825147bc844039',1,'quadrature_encoder.S']]],
   ['movd',['movd',['../quadrature__encoder_8S.html#abee73933f6eeff1bf712a9bc52b86bcc',1,'movd(QuadratureEncoder.ipos):&#160;quadrature_encoder.S'],['../quadrature__encoder_8S.html#ae55ce70017c7fb4405c9552367236cf7',1,'movd(QuadratureEncoder.ipos+4):&#160;quadrature_encoder.S']]],

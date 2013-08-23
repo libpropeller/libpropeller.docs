@@ -1,5 +1,0 @@
-<map id="UnityTests::test_MountMultiple" name="UnityTests::test_MountMultiple">
-<area shape="rect" id="node3" href="$classSD.html#a060b14479082f34827e118b885808985" title="Mounts a volume." alt="" coords="267,5,352,35"/>
-<area shape="rect" id="node5" href="$classSD.html#ac757d23593cdffa8963d44c402616ab5" title="If there was an error in the SD routines then this function will return an error code." alt="" coords="259,59,360,88"/>
-<area shape="rect" id="node7" href="$classSDSafeSPI.html#a2c58e3f57f90f70ea094409f3dbcab0b" title="If there was an error in the SD routines then this function will return an error code." alt="" coords="409,59,559,88"/>
-</map>

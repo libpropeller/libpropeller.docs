@@ -40,7 +40,6 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
       <li><a href="pages.html"><span>Related&#160;Pages</span></a></li>
-      <li><a href="namespaces.html"><span>Namespaces</span></a></li>
       <li><a href="annotated.html"><span>Classes</span></a></li>
       <li class="current"><a href="files.html"><span>Files</span></a></li>
       <li>
@@ -72,7 +71,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
      onmouseover="return searchBox.OnSearchSelectShow()"
      onmouseout="return searchBox.OnSearchSelectHide()"
      onkeydown="return searchBox.OnSearchSelectKey(event)">
-<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Namespaces</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Typedefs</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(9)"><span class="SelectionMark">&#160;</span>Friends</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(10)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(11)"><span class="SelectionMark">&#160;</span>Pages</a></div>
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>All</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>Classes</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>Files</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>Functions</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>Variables</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>Enumerations</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>Enumerator</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(7)"><span class="SelectionMark">&#160;</span>Macros</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(8)"><span class="SelectionMark">&#160;</span>Pages</a></div>
 
 <!-- iframe showing the search results (closed by default) -->
 <div id="MSearchResultsWindow">
@@ -88,38 +87,32 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div><!-- top -->
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
 <a href="#func-members">Functions</a> &#124;
 <a href="#var-members">Variables</a>  </div>
   <div class="headertitle">
 <div class="title">pulse_width_reader.test.h File Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="unity_8h_source.html">unity.h</a>&quot;</code><br/>
+<div class="textblock"><code>#include &quot;unity.h&quot;</code><br/>
 <code>#include &quot;<a class="el" href="pulse__width__reader_8h_source.html">libpropeller/pulsewidthreader/pulse_width_reader.h</a>&quot;</code><br/>
 <code>#include &quot;c++-alloc.h&quot;</code><br/>
-<code>#include &quot;<a class="el" href="board__unit__tester_8h_source.html">libpropeller/board/board_unit_tester.h</a>&quot;</code><br/>
+<code>#include &quot;libpropeller/board/board_unit_tester.h&quot;</code><br/>
 <code>#include &quot;<a class="el" href="pin_8h_source.html">libpropeller/pin/pin.h</a>&quot;</code><br/>
 </div><div class="textblock"><div class="dynheader">
 Include dependency graph for pulse_width_reader.test.h:</div>
 <div class="dyncontent">
 <div class="center"><img src="pulse__width__reader_8test_8h__incl.png" border="0" usemap="#pulse__width__reader_8test_8h" alt=""/></div>
 <map name="pulse__width__reader_8test_8h" id="pulse__width__reader_8test_8h">
-<area shape="rect" id="node3" href="unity_8h.html" title="unity.h" alt="" coords="431,92,492,121"/><area shape="rect" id="node15" href="pulse__width__reader_8h.html" title="libpropeller/pulsewidthreader\l/pulse_width_reader.h" alt="" coords="165,179,352,226"/><area shape="rect" id="node20" href="board__unit__tester_8h.html" title="libpropeller/board\l/board_unit_tester.h" alt="" coords="271,83,407,130"/><area shape="rect" id="node22" href="pin_8h.html" title="libpropeller/pin/pin.h" alt="" coords="5,188,141,217"/><area shape="rect" id="node5" href="unity__internals_8h.html" title="unity_internals.h" alt="" coords="395,188,512,217"/></map>
+<area shape="rect" id="node5" href="pulse__width__reader_8h.html" title="libpropeller/pulsewidthreader\l/pulse_width_reader.h" alt="" coords="91,83,277,130"/><area shape="rect" id="node13" href="pin_8h.html" title="libpropeller/pin/pin.h" alt="" coords="571,92,707,121"/></map>
 </div>
 </div>
 <p><a href="pulse__width__reader_8test_8h_source.html">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classUnityTests.html">UnityTests</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:ab25b70936f8dbdfe579fda3c1ebc6a01"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classPin.html">Pin</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="pulse__width__reader_8test_8h.html#ab25b70936f8dbdfe579fda3c1ebc6a01">sqwOutputPin1</a> (<a class="el" href="namespaceBoard.html#a388147a8e0f0bdefb1b75e2b36244812">Board::kPinTie1a</a>)</td></tr>
+<tr class="memitem:ab25b70936f8dbdfe579fda3c1ebc6a01"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classPin.html">Pin</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="pulse__width__reader_8test_8h.html#ab25b70936f8dbdfe579fda3c1ebc6a01">sqwOutputPin1</a> (Board::kPinTie1a)</td></tr>
 <tr class="separator:ab25b70936f8dbdfe579fda3c1ebc6a01"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a77d6095df7e4ed617b620d996f20a269"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classPin.html">Pin</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="pulse__width__reader_8test_8h.html#a77d6095df7e4ed617b620d996f20a269">sqwOutputPin2</a> (<a class="el" href="namespaceBoard.html#ad6b2fff52f55db39009bc01709da47b9">Board::kPinTie2a</a>)</td></tr>
+<tr class="memitem:a77d6095df7e4ed617b620d996f20a269"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classPin.html">Pin</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="pulse__width__reader_8test_8h.html#a77d6095df7e4ed617b620d996f20a269">sqwOutputPin2</a> (Board::kPinTie2a)</td></tr>
 <tr class="separator:a77d6095df7e4ed617b620d996f20a269"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="var-members"></a>
@@ -155,7 +148,7 @@ Variables</h2></td></tr>
         <tr>
           <td class="memname"><a class="el" href="classPin.html">Pin</a> sqwOutputPin1 </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="namespaceBoard.html#a388147a8e0f0bdefb1b75e2b36244812">Board::kPinTie1a</a>&#160;</td>
+          <td class="paramtype">Board::kPinTie1a&#160;</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
@@ -171,7 +164,7 @@ Variables</h2></td></tr>
         <tr>
           <td class="memname"><a class="el" href="classPin.html">Pin</a> sqwOutputPin2 </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="namespaceBoard.html#ad6b2fff52f55db39009bc01709da47b9">Board::kPinTie2a</a>&#160;</td>
+          <td class="paramtype">Board::kPinTie2a&#160;</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
@@ -238,9 +231,9 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">= (1 &lt;&lt; <a class="code" href="namespaceBoard.html#af3ae4ac291939f70d7b8cb641bce6bef">Board::kPinSqw</a>)</div>
-<div class="line">| (1 &lt;&lt; <a class="code" href="namespaceBoard.html#a3a97046bc2d30905c1dfffc156c668b6">Board::kPinTie1b</a>)</div>
-<div class="line">| (1 &lt;&lt; <a class="code" href="namespaceBoard.html#ae6e943375fb6780787ec4a383ae396b6">Board::kPinTie2b</a>)</div>
+<b>Initial value:</b><div class="fragment"><div class="line">= (1 &lt;&lt; Board::kPinSqw)</div>
+<div class="line">| (1 &lt;&lt; Board::kPinTie1b)</div>
+<div class="line">| (1 &lt;&lt; Board::kPinTie2b)</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -319,7 +312,7 @@ Variables</h2></td></tr>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Fri Aug 23 2013 05:26:09 for libpropeller by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Fri Aug 23 2013 05:32:10 for libpropeller by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.3.1
 </small></address>

@@ -1,6 +1,4 @@
 <map id="sd.test.h" name="sd.test.h">
-<area shape="rect" id="node5" href="$unity_8h.html" title="unity.h" alt="" coords="108,83,169,112"/>
-<area shape="rect" id="node16" href="$sd_8h.html" title="sd.h" alt="" coords="38,83,84,112"/>
-<area shape="rect" id="node7" href="$unity__internals_8h.html" title="unity_internals.h" alt="" coords="229,160,346,189"/>
-<area shape="rect" id="node19" href="$sdsafespi_8h.html" title="libpropeller/sd/sdsafespi.h" alt="" coords="32,160,205,189"/>
+<area shape="rect" id="node7" href="$sd_8h.html" title="sd.h" alt="" coords="119,83,164,112"/>
+<area shape="rect" id="node10" href="$sdsafespi_8h.html" title="libpropeller/sd/sdsafespi.h" alt="" coords="84,160,257,189"/>
 </map>

@@ -1,8 +1,6 @@
 <map id="gpsparser.test.h" name="gpsparser.test.h">
-<area shape="rect" id="node5" href="$unity_8h.html" title="unity.h" alt="" coords="123,92,185,121"/>
-<area shape="rect" id="node17" href="$c_09_09allocate_8h.html" title="libpropeller/c++allocate\l/c++allocate.h" alt="" coords="209,83,363,130"/>
-<area shape="rect" id="node23" href="$serial_8h.html" title="libpropeller/serial\l/serial.h" alt="" coords="399,179,517,226"/>
-<area shape="rect" id="node31" href="$gpsparser_8h.html" title="libpropeller/gpsparser\l/gpsparser.h" alt="" coords="438,83,582,130"/>
-<area shape="rect" id="node7" href="$unity__internals_8h.html" title="unity_internals.h" alt="" coords="106,188,223,217"/>
-<area shape="rect" id="node28" href="$numbers_8h.html" title="libpropeller/numbers\l/numbers.h" alt="" coords="511,275,650,322"/>
+<area shape="rect" id="node7" href="$c_09_09allocate_8h.html" title="libpropeller/c++allocate\l/c++allocate.h" alt="" coords="123,83,278,130"/>
+<area shape="rect" id="node13" href="$serial_8h.html" title="libpropeller/serial\l/serial.h" alt="" coords="257,179,374,226"/>
+<area shape="rect" id="node22" href="$gpsparser_8h.html" title="libpropeller/gpsparser\l/gpsparser.h" alt="" coords="353,83,497,130"/>
+<area shape="rect" id="node19" href="$numbers_8h.html" title="libpropeller/numbers\l/numbers.h" alt="" coords="313,275,451,322"/>
 </map>

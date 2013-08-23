@@ -1,6 +1,0 @@
-<map id="UnityTests::test_LEDs" name="UnityTests::test_LEDs">
-<area shape="rect" id="node3" href="$classElum.html#a194c81026ada40f54d9df5c16866a682" title="Elum::On" alt="" coords="224,5,301,35"/>
-<area shape="rect" id="node5" href="$classElum.html#a51a6ba0ca4deb7f564b32efbdc325bf1" title="Fades both LEDs in and out." alt="" coords="219,59,307,88"/>
-<area shape="rect" id="node9" href="$classElum.html#abc244085544a3bb386a1eaceacafdc76" title="Alternate in the following pattern:" alt="" coords="212,112,313,141"/>
-<area shape="rect" id="node7" href="$classElum.html#a1d24da8a4b03b028fe4e86db5289efd3" title="Elum::Off" alt="" coords="364,85,441,115"/>
-</map>

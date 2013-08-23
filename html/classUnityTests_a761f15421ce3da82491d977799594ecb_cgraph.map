@@ -1,5 +1,0 @@
-<map id="UnityTests::test_RxflushClearsBuffer" name="UnityTests::test_RxflushClearsBuffer">
-<area shape="rect" id="node3" href="$classFullDuplexSerial.html#a237943408075076f2c62bad8e67f5c20" title="Transmit a byte of data." alt="" coords="239,5,383,35"/>
-<area shape="rect" id="node5" href="$classFullDuplexSerial.html#afba8572923b14acd2867bc76f275d4fe" title="Receive a byte of data." alt="" coords="448,32,595,61"/>
-<area shape="rect" id="node7" href="$classFullDuplexSerial.html#aa50b174cbeb838945290d825ccef865a" title="Clear the receive buffer of all bytes." alt="" coords="221,109,400,139"/>
-</map>

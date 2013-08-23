@@ -1,6 +1,3 @@
 <map id="mcp3208.test.h" name="mcp3208.test.h">
-<area shape="rect" id="node3" href="$unity_8h.html" title="unity.h" alt="" coords="108,92,169,121"/>
-<area shape="rect" id="node17" href="$mcp3208_8h.html" title="libpropeller/mcp3208\l/mcp3208.h" alt="" coords="245,179,387,226"/>
-<area shape="rect" id="node20" href="$board__unit__tester_8h.html" title="libpropeller/board\l/board_unit_tester.h" alt="" coords="353,83,489,130"/>
-<area shape="rect" id="node5" href="$unity__internals_8h.html" title="unity_internals.h" alt="" coords="80,188,197,217"/>
+<area shape="rect" id="node7" href="$mcp3208_8h.html" title="libpropeller/mcp3208\l/mcp3208.h" alt="" coords="200,83,341,130"/>
 </map>

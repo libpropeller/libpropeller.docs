@@ -1,8 +1,0 @@
-<map id="UnityTests::test_SaveCurrentClock" name="UnityTests::test_SaveCurrentClock">
-<area shape="rect" id="node3" href="$classPCF8523.html#a8ad5f58faa04dd26bf0adf03bc83eaa0" title="Get the current time from the RTC chip." alt="" coords="252,85,391,115"/>
-<area shape="rect" id="node5" href="$classI2C.html#a9b348d058ba1576dee2664e022632106" title="Get a single byte with the following format:" alt="" coords="440,85,512,115"/>
-<area shape="rect" id="node7" href="$classI2CBase.html#a16dc0177aab341a936f508e5e91406be" title="Output a start condition on the I2C bus." alt="" coords="575,5,684,35"/>
-<area shape="rect" id="node9" href="$classI2CBase.html#a7cdbdb037ac9b84275d5f0d04476b8ce" title="Output a byte on the I2C bus." alt="" coords="560,59,699,88"/>
-<area shape="rect" id="node11" href="$classI2CBase.html#a7e6ce0d28db009c9d5ccda75ac669680" title="Get a byte from the I2C bus." alt="" coords="560,112,699,141"/>
-<area shape="rect" id="node13" href="$classI2CBase.html#a0e0b9bc5b9a5a34fa78187e71f3731d1" title="Output a stop condition on the I2C bus." alt="" coords="576,165,683,195"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="UnityTests::test_StopStopsCog" name="UnityTests::test_StopStopsCog">
-<area shape="rect" id="node3" href="$classUnityTests.html#a42dbd6d3d2a7981fae3e849e66d67b71" title="UnityTests::help_CountNumber\lOfFreeCogs" alt="" coords="263,5,468,51"/>
-<area shape="rect" id="node7" href="$classSerial.html#a206b0e9c801a8df764d03554e6fa16f4" title="Stops the Serial PASM engine, if it is running." alt="" coords="320,75,411,104"/>
-<area shape="rect" id="node5" href="$classUnityTests.html#abaa1b7c91d312f5e0d4e6840d358337d" title="UnityTests::cog_DoNothing" alt="" coords="517,13,701,43"/>
-</map>

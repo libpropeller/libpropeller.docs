@@ -1,5 +1,0 @@
-<map id="UnityTests::test_Toggle" name="UnityTests::test_Toggle">
-<area shape="rect" id="node3" href="$classPin.html#a2a37644e45fdd91d099a969db68630fd" title="Set pin to output high." alt="" coords="223,5,295,35"/>
-<area shape="rect" id="node5" href="$classPin.html#aedc48aea2cc243469c08a716e84190b2" title="Toggle the pin on output." alt="" coords="217,59,300,88"/>
-<area shape="rect" id="node7" href="$classPin.html#ac4ecc56174770f9e41e28349ebe707a5" title="Set the pin to input and get it&#39;s value." alt="" coords="220,112,297,141"/>
-</map>
