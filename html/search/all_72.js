@@ -1,9 +1,12 @@
 var searchData=
 [
   ['randomaddress',['randomAddress',['../i2c_8test_8h.html#a8f59000801db9fd45bce0a4a8f5b6556',1,'i2c.test.h']]],
+  ['readaccl',['ReadAccl',['../classLSM303DLHC.html#a7ee73d6cf921dd60467a6100dbb2d78c',1,'LSM303DLHC']]],
   ['readblock',['ReadBlock',['../classSDSafeSPI.html#ae5fdb2d48b2b578050a611e79250090f',1,'SDSafeSPI']]],
   ['readbyte',['ReadByte',['../classI2C.html#a27d68f86cd92cb57ca9e628a0f3b1878',1,'I2C::ReadByte()'],['../classI2CBase.html#a7e6ce0d28db009c9d5ccda75ac669680',1,'I2CBase::ReadByte()']]],
+  ['readgyro',['ReadGyro',['../classL3GD20.html#a31e3fcbfcd2801b1bf0c6290456ddef0',1,'L3GD20']]],
   ['readlastrecord',['Readlastrecord',['../pulse__width__reader_8S.html#a1d10e6f155213d3cc23a45d4170c00f8',1,'pulse_width_reader.S']]],
+  ['readmagn',['ReadMagn',['../classLSM303DLHC.html#a846bddda451a6f8b6522f358d72b118a',1,'LSM303DLHC']]],
   ['red',['RED',['../classElum.html#a4d7fa72171b3d3becdf14200f8758b57a9da81959a77f3bbc6af61b2efdbe3b49',1,'Elum']]],
   ['registeraddress',['registerAddress',['../i2c_8test_8h.html#a073552b7c4d57f301addb3f29de67737',1,'i2c.test.h']]],
   ['releasecard',['ReleaseCard',['../classSDSafeSPI.html#ae74174a2ead99e536e2942feb9019b76',1,'SDSafeSPI']]],

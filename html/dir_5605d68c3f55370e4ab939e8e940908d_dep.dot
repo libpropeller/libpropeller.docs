@@ -9,7 +9,7 @@ digraph "vnh2sp30" {
   dir_9a2753a9920915ab7ffeca8e7341c416 [shape=box label="pwm32" URL="dir_9a2753a9920915ab7ffeca8e7341c416.html"];
   dir_4a53e5d76ec333322b7b30a18e9c3c9e [shape=box label="pwm2" URL="dir_4a53e5d76ec333322b7b30a18e9c3c9e.html"];
   dir_2b17512315ec35cee8a316dc22e82742 [shape=box label="pin" URL="dir_2b17512315ec35cee8a316dc22e82742.html"];
-  dir_5605d68c3f55370e4ab939e8e940908d->dir_9a2753a9920915ab7ffeca8e7341c416 [headlabel="2", labeldistance=1.5 headhref="dir_000024_000018.html"];
-  dir_5605d68c3f55370e4ab939e8e940908d->dir_4a53e5d76ec333322b7b30a18e9c3c9e [headlabel="1", labeldistance=1.5 headhref="dir_000024_000017.html"];
-  dir_5605d68c3f55370e4ab939e8e940908d->dir_2b17512315ec35cee8a316dc22e82742 [headlabel="1", labeldistance=1.5 headhref="dir_000024_000015.html"];
+  dir_5605d68c3f55370e4ab939e8e940908d->dir_9a2753a9920915ab7ffeca8e7341c416 [headlabel="2", labeldistance=1.5 headhref="dir_000028_000022.html"];
+  dir_5605d68c3f55370e4ab939e8e940908d->dir_4a53e5d76ec333322b7b30a18e9c3c9e [headlabel="1", labeldistance=1.5 headhref="dir_000028_000021.html"];
+  dir_5605d68c3f55370e4ab939e8e940908d->dir_2b17512315ec35cee8a316dc22e82742 [headlabel="1", labeldistance=1.5 headhref="dir_000028_000019.html"];
 }

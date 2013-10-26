@@ -5,15 +5,15 @@ digraph "PWM2::Start"
   rankdir="LR";
   Node1 [label="PWM2::Start",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
   Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node2 [label="PWM2::SetDutyX",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classPWM2.html#ac885ec16bd620fc1228e792ec1abf306",tooltip="Output a square wave with specified duty cycle."];
+  Node2 [label="PWM2::SetDutyX",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classPWM2.html#ac885ec16bd620fc1228e792ec1abf306",tooltip="Output a square wave with specified duty cycle. "];
   Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node3 [label="PWM2::SetDutyY",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classPWM2.html#a8c5c2d18077352a9ef7c0063224941d8",tooltip="Output a square wave with specified duty cycle."];
+  Node3 [label="PWM2::SetDutyY",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classPWM2.html#a8c5c2d18077352a9ef7c0063224941d8",tooltip="Output a square wave with specified duty cycle. "];
   Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node4 [label="PWM2::SetPinX",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classPWM2.html#aa7be83334fd9fa4d6cf1ad1029f440fb",tooltip="Set a pin to PWM out on."];
+  Node4 [label="PWM2::SetPinX",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classPWM2.html#aa7be83334fd9fa4d6cf1ad1029f440fb",tooltip="Set a pin to PWM out on. "];
   Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node5 [label="PWM2::SetPinY",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classPWM2.html#aa1d40b6aaebbb4cf65a5396ebe28df7c",tooltip="Set a pin to PWM out on."];
+  Node5 [label="PWM2::SetPinY",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classPWM2.html#aa1d40b6aaebbb4cf65a5396ebe28df7c",tooltip="Set a pin to PWM out on. "];
   Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node6 [label="PWM2::SetFrequency",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classPWM2.html#a3a3022532be4793a5b704df7da3de570",tooltip="Set the frequency to output channel X and Y on."];
+  Node6 [label="PWM2::SetFrequency",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classPWM2.html#a3a3022532be4793a5b704df7da3de570",tooltip="Set the frequency to output channel X and Y on. "];
   Node6 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
   Node6 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
 }

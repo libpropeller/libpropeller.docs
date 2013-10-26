@@ -7,5 +7,5 @@ digraph "pcf8523" {
   dir_18b56ebc83b0b325fc8988ca31778141 [shape=box, label="pcf8523", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_18b56ebc83b0b325fc8988ca31778141.html"];
   }
   dir_c3b11af479d85cbee5d8a7aef9a49808 [shape=box label="i2c" URL="dir_c3b11af479d85cbee5d8a7aef9a49808.html"];
-  dir_18b56ebc83b0b325fc8988ca31778141->dir_c3b11af479d85cbee5d8a7aef9a49808 [headlabel="1", labeldistance=1.5 headhref="dir_000014_000008.html"];
+  dir_18b56ebc83b0b325fc8988ca31778141->dir_c3b11af479d85cbee5d8a7aef9a49808 [headlabel="1", labeldistance=1.5 headhref="dir_000018_000008.html"];
 }

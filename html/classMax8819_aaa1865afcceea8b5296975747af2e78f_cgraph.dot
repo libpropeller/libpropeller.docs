@@ -5,7 +5,7 @@ digraph "Max8819::Start"
   rankdir="LR";
   Node1 [label="Max8819::Start",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
   Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node2 [label="Max8819::On",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMax8819.html#a701e194e002d69753ae5c21cdafbb20f",tooltip="Turn the power system on."];
+  Node2 [label="Max8819::On",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMax8819.html#a701e194e002d69753ae5c21cdafbb20f",tooltip="Turn the power system on. "];
   Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node3 [label="Max8819::SetCharge",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMax8819.html#a019ba1275d93276c8d982e06faa169d6",tooltip="Sets the charge rate."];
+  Node3 [label="Max8819::SetCharge",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMax8819.html#a019ba1275d93276c8d982e06faa169d6",tooltip="Sets the charge rate. "];
 }

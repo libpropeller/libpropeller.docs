@@ -21,7 +21,7 @@ var searchData=
   ['getreading',['GetReading',['../classQuadratureEncoder.html#acafbb473b78575646d3b67e5696f07fb',1,'QuadratureEncoder']]],
   ['getstarted',['GetStarted',['../classStopwatch.html#a3ff122ddb9e42fa2a2b20d76c47785fb',1,'Stopwatch']]],
   ['getstateofcharge',['GetStateOfCharge',['../classMAX17048.html#a510929a81e0bade5f8400f3fe88c61a8',1,'MAX17048']]],
-  ['getstatus',['GetStatus',['../classMAX17048.html#a7ebe35c9641ce2da35f8c26d77f0fbb1',1,'MAX17048::GetStatus()'],['../classMS5611.html#a40eb1e82143242d600a363e8d3ab08dc',1,'MS5611::GetStatus()'],['../classPCF8523.html#aff6054789d7d98c76b0969681c6e5a2c',1,'PCF8523::GetStatus()']]],
+  ['getstatus',['GetStatus',['../classMAX17048.html#a7ebe35c9641ce2da35f8c26d77f0fbb1',1,'MAX17048::GetStatus()'],['../classMS5611.html#a40eb1e82143242d600a363e8d3ab08dc',1,'MS5611::GetStatus()'],['../classMTK3339.html#a5e3ba54fc540816387a420b3f39b4886',1,'MTK3339::GetStatus()'],['../classPCF8523.html#aff6054789d7d98c76b0969681c6e5a2c',1,'PCF8523::GetStatus()']]],
   ['getticksperperiod',['GetTicksPerPeriod',['../classScheduler.html#a264b9998d10086c204ab678ce8d1f827',1,'Scheduler']]],
   ['getversion',['GetVersion',['../classMAX17048.html#a8f95fa6ed9fb83ce2548eb9a5d5fa994',1,'MAX17048']]],
   ['getvoltage',['GetVoltage',['../classMAX17048.html#a2073beae80e081c986bc1cfef0245739',1,'MAX17048']]],
@@ -29,5 +29,6 @@ var searchData=
   ['gpsparser',['GPSParser',['../classGPSParser.html',1,'']]],
   ['gpsparser_2eh',['gpsparser.h',['../gpsparser_8h.html',1,'']]],
   ['gpsparser_2etest_2eh',['gpsparser.test.h',['../gpsparser_8test_8h.html',1,'']]],
-  ['green',['GREEN',['../classElum.html#a4d7fa72171b3d3becdf14200f8758b57ada2643689d932ddbf5e274b55fbe27e3',1,'Elum']]]
+  ['green',['GREEN',['../classElum.html#a4d7fa72171b3d3becdf14200f8758b57ada2643689d932ddbf5e274b55fbe27e3',1,'Elum']]],
+  ['gyro',['gyro',['../l3gd20_8test_8h.html#a7f56618c300aef1ad1589bd9610c54c1',1,'l3gd20.test.h']]]
 ];

@@ -1,0 +1,7 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="FullDuplexSerial",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classFullDuplexSerial.html",tooltip="This driver, once started, implements a serial port in one cog. "];
+}

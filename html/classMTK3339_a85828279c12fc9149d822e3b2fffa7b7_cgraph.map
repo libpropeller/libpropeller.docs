@@ -1,0 +1,15 @@
+<map id="MTK3339::Start" name="MTK3339::Start">
+<area shape="rect" id="node3" href="$classGPSParser.html#aaa130cba91a448ec16ef5fe95e28d72c" title="Create the parser and launch a new cog. " alt="" coords="180,44,303,73"/>
+<area shape="rect" id="node10" href="$classSerial.html#a0e229832a2ae4e04d3423c2e745cb975" title="Does a live update of the baud rate in the Serial engine. " alt="" coords="563,84,675,113"/>
+<area shape="rect" id="node14" href="$classSerial.html#aedaf7116af6bdf095f3d840fd6adb76a" title="Transmit a string (printf function&#45;alike). " alt="" coords="171,201,312,231"/>
+<area shape="rect" id="node30" href="$classMTK3339.html#a5e3ba54fc540816387a420b3f39b4886" title="MTK3339::GetStatus" alt="" coords="169,255,313,284"/>
+<area shape="rect" id="node5" href="$classSerial.html#a206b0e9c801a8df764d03554e6fa16f4" title="Stops the Serial PASM engine, if it is running. " alt="" coords="573,5,664,35"/>
+<area shape="rect" id="node7" href="$classSerial.html#a445c1fa70cbd44b22c22d15efecc457d" title="Start Serial driver in a new cog. " alt="" coords="388,44,479,73"/>
+<area shape="rect" id="node12" href="$classSerial.html#a174ece60e6a8245422bb9ac27d8edcd8" title="Does a live update of the baud rate in the Serial engine. " alt="" coords="733,84,880,113"/>
+<area shape="rect" id="node16" href="$classNumbers.html#ae09e5edb64c90cc8e96ffa0448480913" title="Converts a decimal number to it&#39;s string representation. " alt="" coords="380,148,487,177"/>
+<area shape="rect" id="node20" href="$classNumbers.html#af6e77f5a7ecb28560811829bca7b96cd" title="Calculate the number of digits in the decimal representation of a number. " alt="" coords="363,201,504,231"/>
+<area shape="rect" id="node22" href="$classSerial.html#a9cc9f1300669c411690390b0399db3e9" title="Transmit a single character. " alt="" coords="392,255,475,284"/>
+<area shape="rect" id="node24" href="$classNumbers.html#a8d07dfd4d8a6e0235eff31e836ba6eb1" title="Calculate the number of digits in the hexadecimal representation of a number. " alt="" coords="363,308,504,337"/>
+<area shape="rect" id="node26" href="$classNumbers.html#a52fabba8e32d14cb5cf261fd81c66bef" title="Converts a hex number to it&#39;s string representation. " alt="" coords="380,361,487,391"/>
+<area shape="rect" id="node18" href="$classNumbers.html#aece35044b3a518cf718313c9b327cb79" title="Reverse the order of a string&#39;s characters, in place. " alt="" coords="553,243,684,272"/>
+</map>

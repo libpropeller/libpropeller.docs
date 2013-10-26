@@ -5,5 +5,5 @@ digraph "EEPROM::PutNumber"
   rankdir="LR";
   Node1 [label="EEPROM::PutNumber",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
   Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node2 [label="EEPROM::Put",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEEPROM.html#a2bacf20e9fcb2429e96729b5d71d0579",tooltip="Put a byte into the EEPROM."];
+  Node2 [label="EEPROM::Put",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEEPROM.html#a2bacf20e9fcb2429e96729b5d71d0579",tooltip="Put a byte into the EEPROM. "];
 }

@@ -5,7 +5,7 @@ digraph "FullDuplexSerial::PutDec"
   rankdir="LR";
   Node1 [label="FullDuplexSerial::PutDec",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
   Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node2 [label="FullDuplexSerial::Put",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classFullDuplexSerial.html#a237943408075076f2c62bad8e67f5c20",tooltip="Transmit a byte of data."];
+  Node2 [label="FullDuplexSerial::Put",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classFullDuplexSerial.html#a237943408075076f2c62bad8e67f5c20",tooltip="Transmit a byte of data. "];
   Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node3 [label="FullDuplexSerial::Get",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classFullDuplexSerial.html#afba8572923b14acd2867bc76f275d4fe",tooltip="Receive a byte of data."];
+  Node3 [label="FullDuplexSerial::Get",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classFullDuplexSerial.html#afba8572923b14acd2867bc76f275d4fe",tooltip="Receive a byte of data. "];
 }

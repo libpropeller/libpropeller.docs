@@ -1,9 +1,0 @@
-digraph "gcc" {
-  compound=true
-  node [ fontsize="10", fontname="Helvetica"];
-  edge [ labelfontsize="10", labelfontname="Helvetica"];
-  subgraph clusterdir_34d10b20358c807fff993149200b6a31 {
-    graph [ bgcolor="#ddddee", pencolor="black", label="libpropeller" fontname="Helvetica", fontsize="10", URL="dir_34d10b20358c807fff993149200b6a31.html"]
-  dir_07ed47852d49877f9b0eac6afb0e9694 [shape=box, label="gcc", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_07ed47852d49877f9b0eac6afb0e9694.html"];
-  }
-}

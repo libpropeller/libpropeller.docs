@@ -1,4 +1,4 @@
 <map id="vnh2sp30::SetDirection" name="vnh2sp30::SetDirection">
-<area shape="rect" id="node3" href="$classPin.html#a2a37644e45fdd91d099a969db68630fd" title="Set pin to output high." alt="" coords="215,5,287,35"/>
-<area shape="rect" id="node5" href="$classPin.html#a2b3a5a1a6bf26e9f1a65314bda73045a" title="Set pin to output low." alt="" coords="216,59,285,88"/>
+<area shape="rect" id="node3" href="$classPin.html#a2a37644e45fdd91d099a969db68630fd" title="Set pin to output high. " alt="" coords="215,5,287,35"/>
+<area shape="rect" id="node5" href="$classPin.html#a2b3a5a1a6bf26e9f1a65314bda73045a" title="Set pin to output low. " alt="" coords="216,59,285,88"/>
 </map>

@@ -1,6 +1,6 @@
 <map id="PCF8523::SetClock" name="PCF8523::SetClock">
-<area shape="rect" id="node3" href="$classI2C.html#ac049214532a342b5732609eece614405" title="Put a single byte with the following format:" alt="" coords="193,59,263,88"/>
-<area shape="rect" id="node5" href="$classI2CBase.html#a16dc0177aab341a936f508e5e91406be" title="Output a start condition on the I2C bus." alt="" coords="327,5,436,35"/>
-<area shape="rect" id="node7" href="$classI2CBase.html#a7cdbdb037ac9b84275d5f0d04476b8ce" title="Output a byte on the I2C bus." alt="" coords="312,59,451,88"/>
-<area shape="rect" id="node9" href="$classI2CBase.html#a0e0b9bc5b9a5a34fa78187e71f3731d1" title="Output a stop condition on the I2C bus." alt="" coords="328,112,435,141"/>
+<area shape="rect" id="node3" href="$classI2C.html#ac049214532a342b5732609eece614405" title="Put a single byte with the following format: " alt="" coords="193,59,263,88"/>
+<area shape="rect" id="node5" href="$classI2CBase.html#a16dc0177aab341a936f508e5e91406be" title="Output a start condition on the I2C bus. " alt="" coords="327,5,436,35"/>
+<area shape="rect" id="node7" href="$classI2CBase.html#a7cdbdb037ac9b84275d5f0d04476b8ce" title="Output a byte on the I2C bus. " alt="" coords="312,59,451,88"/>
+<area shape="rect" id="node9" href="$classI2CBase.html#a0e0b9bc5b9a5a34fa78187e71f3731d1" title="Output a stop condition on the I2C bus. " alt="" coords="328,112,435,141"/>
 </map>

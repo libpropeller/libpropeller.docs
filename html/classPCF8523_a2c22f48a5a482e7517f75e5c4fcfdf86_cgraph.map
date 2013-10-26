@@ -1,8 +1,8 @@
 <map id="PCF8523::Init" name="PCF8523::Init">
-<area shape="rect" id="node3" href="$classPCF8523.html#aff6054789d7d98c76b0969681c6e5a2c" title="Test to see if the device is present and readable." alt="" coords="157,33,301,63"/>
-<area shape="rect" id="node13" href="$classI2C.html#ac049214532a342b5732609eece614405" title="Put a single byte with the following format:" alt="" coords="353,85,423,115"/>
-<area shape="rect" id="node5" href="$classI2C.html#a11afa1921c1287013e7bcb6675878a49" title="Test for the Acknowledge of a device by sending start and the slave address." alt="" coords="349,32,427,61"/>
-<area shape="rect" id="node7" href="$classI2CBase.html#a16dc0177aab341a936f508e5e91406be" title="Output a start condition on the I2C bus." alt="" coords="489,5,599,35"/>
-<area shape="rect" id="node9" href="$classI2CBase.html#a7cdbdb037ac9b84275d5f0d04476b8ce" title="Output a byte on the I2C bus." alt="" coords="475,59,613,88"/>
-<area shape="rect" id="node11" href="$classI2CBase.html#a0e0b9bc5b9a5a34fa78187e71f3731d1" title="Output a stop condition on the I2C bus." alt="" coords="491,112,597,141"/>
+<area shape="rect" id="node3" href="$classPCF8523.html#aff6054789d7d98c76b0969681c6e5a2c" title="Test to see if the device is present and readable. " alt="" coords="157,33,301,63"/>
+<area shape="rect" id="node13" href="$classI2C.html#ac049214532a342b5732609eece614405" title="Put a single byte with the following format: " alt="" coords="353,85,423,115"/>
+<area shape="rect" id="node5" href="$classI2C.html#a11afa1921c1287013e7bcb6675878a49" title="Test for the Acknowledge of a device by sending start and the slave address. " alt="" coords="349,32,427,61"/>
+<area shape="rect" id="node7" href="$classI2CBase.html#a16dc0177aab341a936f508e5e91406be" title="Output a start condition on the I2C bus. " alt="" coords="489,5,599,35"/>
+<area shape="rect" id="node9" href="$classI2CBase.html#a7cdbdb037ac9b84275d5f0d04476b8ce" title="Output a byte on the I2C bus. " alt="" coords="475,59,613,88"/>
+<area shape="rect" id="node11" href="$classI2CBase.html#a0e0b9bc5b9a5a34fa78187e71f3731d1" title="Output a stop condition on the I2C bus. " alt="" coords="491,112,597,141"/>
 </map>

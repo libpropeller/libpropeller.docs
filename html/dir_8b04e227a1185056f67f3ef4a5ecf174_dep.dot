@@ -7,5 +7,5 @@ digraph "max17048" {
   dir_8b04e227a1185056f67f3ef4a5ecf174 [shape=box, label="max17048", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_8b04e227a1185056f67f3ef4a5ecf174.html"];
   }
   dir_c3b11af479d85cbee5d8a7aef9a49808 [shape=box label="i2c" URL="dir_c3b11af479d85cbee5d8a7aef9a49808.html"];
-  dir_8b04e227a1185056f67f3ef4a5ecf174->dir_c3b11af479d85cbee5d8a7aef9a49808 [headlabel="2", labeldistance=1.5 headhref="dir_000009_000008.html"];
+  dir_8b04e227a1185056f67f3ef4a5ecf174->dir_c3b11af479d85cbee5d8a7aef9a49808 [headlabel="2", labeldistance=1.5 headhref="dir_000011_000008.html"];
 }

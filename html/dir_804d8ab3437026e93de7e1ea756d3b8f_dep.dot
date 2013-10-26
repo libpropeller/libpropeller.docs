@@ -8,6 +8,6 @@ digraph "ms5611" {
   }
   dir_af3e1f68359431e77e292300d9058bef [shape=box label="stopwatch" URL="dir_af3e1f68359431e77e292300d9058bef.html"];
   dir_c3b11af479d85cbee5d8a7aef9a49808 [shape=box label="i2c" URL="dir_c3b11af479d85cbee5d8a7aef9a49808.html"];
-  dir_804d8ab3437026e93de7e1ea756d3b8f->dir_af3e1f68359431e77e292300d9058bef [headlabel="1", labeldistance=1.5 headhref="dir_000012_000023.html"];
-  dir_804d8ab3437026e93de7e1ea756d3b8f->dir_c3b11af479d85cbee5d8a7aef9a49808 [headlabel="1", labeldistance=1.5 headhref="dir_000012_000008.html"];
+  dir_804d8ab3437026e93de7e1ea756d3b8f->dir_af3e1f68359431e77e292300d9058bef [headlabel="1", labeldistance=1.5 headhref="dir_000014_000027.html"];
+  dir_804d8ab3437026e93de7e1ea756d3b8f->dir_c3b11af479d85cbee5d8a7aef9a49808 [headlabel="1", labeldistance=1.5 headhref="dir_000014_000008.html"];
 }

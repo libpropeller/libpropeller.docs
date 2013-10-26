@@ -28,7 +28,7 @@ var searchData=
   ['putdec',['PutDec',['../classFullDuplexSerial.html#a7956203754a2d9784bfb51480892ce80',1,'FullDuplexSerial']]],
   ['putformatted',['PutFormatted',['../classSerial.html#aedaf7116af6bdf095f3d840fd6adb76a',1,'Serial']]],
   ['putnumber',['PutNumber',['../classEEPROM.html#a79ea6cd1d347be0ad348f4a8a2fd16d6',1,'EEPROM']]],
-  ['pwm',['PWM',['../classPWM32.html#ab61dc1de2574fe2e0dcc34c704428180',1,'PWM32::PWM()'],['../classPin.html#a12cc00ce3e3a1904931478d4fa32df53',1,'Pin::pwm()']]],
+  ['pwm',['pwm',['../classPin.html#a12cc00ce3e3a1904931478d4fa32df53',1,'Pin::pwm()'],['../classPWM32.html#ab61dc1de2574fe2e0dcc34c704428180',1,'PWM32::PWM()']]],
   ['pwm2',['PWM2',['../classPWM2.html',1,'PWM2'],['../vnh2sp30_8test_8h.html#a9a6c641f8d7d192c02dc808b1bc2b829',1,'pwm2():&#160;vnh2sp30.test.h']]],
   ['pwm2_2eh',['pwm2.h',['../pwm2_8h.html',1,'']]],
   ['pwm2_2es',['pwm2.S',['../pwm2_8S.html',1,'']]],

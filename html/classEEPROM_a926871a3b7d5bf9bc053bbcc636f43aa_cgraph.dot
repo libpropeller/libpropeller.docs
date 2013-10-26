@@ -5,5 +5,5 @@ digraph "EEPROM::GetNumber"
   rankdir="LR";
   Node1 [label="EEPROM::GetNumber",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
   Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node2 [label="EEPROM::Get",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEEPROM.html#af24c313a2c7c9433c3e085d8bbbb137e",tooltip="Get a single byte from the EEPROM."];
+  Node2 [label="EEPROM::Get",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEEPROM.html#af24c313a2c7c9433c3e085d8bbbb137e",tooltip="Get a single byte from the EEPROM. "];
 }

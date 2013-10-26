@@ -1,0 +1,11 @@
+digraph "l3gd20" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_34d10b20358c807fff993149200b6a31 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="libpropeller" fontname="Helvetica", fontsize="10", URL="dir_34d10b20358c807fff993149200b6a31.html"]
+  dir_67a354be9b2995627094ecda6a4ced7a [shape=box, label="l3gd20", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_67a354be9b2995627094ecda6a4ced7a.html"];
+  }
+  dir_c3b11af479d85cbee5d8a7aef9a49808 [shape=box label="i2c" URL="dir_c3b11af479d85cbee5d8a7aef9a49808.html"];
+  dir_67a354be9b2995627094ecda6a4ced7a->dir_c3b11af479d85cbee5d8a7aef9a49808 [headlabel="2", labeldistance=1.5 headhref="dir_000009_000008.html"];
+}

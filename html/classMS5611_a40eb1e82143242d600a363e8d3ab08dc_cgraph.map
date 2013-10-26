@@ -1,6 +1,6 @@
 <map id="MS5611::GetStatus" name="MS5611::GetStatus">
-<area shape="rect" id="node3" href="$classI2C.html#a11afa1921c1287013e7bcb6675878a49" title="Test for the Acknowledge of a device by sending start and the slave address." alt="" coords="192,59,269,88"/>
-<area shape="rect" id="node5" href="$classI2CBase.html#a16dc0177aab341a936f508e5e91406be" title="Output a start condition on the I2C bus." alt="" coords="332,5,441,35"/>
-<area shape="rect" id="node7" href="$classI2CBase.html#a7cdbdb037ac9b84275d5f0d04476b8ce" title="Output a byte on the I2C bus." alt="" coords="317,59,456,88"/>
-<area shape="rect" id="node9" href="$classI2CBase.html#a0e0b9bc5b9a5a34fa78187e71f3731d1" title="Output a stop condition on the I2C bus." alt="" coords="333,112,440,141"/>
+<area shape="rect" id="node3" href="$classI2C.html#a11afa1921c1287013e7bcb6675878a49" title="Test for the Acknowledge of a device by sending start and the slave address. " alt="" coords="192,59,269,88"/>
+<area shape="rect" id="node5" href="$classI2CBase.html#a16dc0177aab341a936f508e5e91406be" title="Output a start condition on the I2C bus. " alt="" coords="332,5,441,35"/>
+<area shape="rect" id="node7" href="$classI2CBase.html#a7cdbdb037ac9b84275d5f0d04476b8ce" title="Output a byte on the I2C bus. " alt="" coords="317,59,456,88"/>
+<area shape="rect" id="node9" href="$classI2CBase.html#a0e0b9bc5b9a5a34fa78187e71f3731d1" title="Output a stop condition on the I2C bus. " alt="" coords="333,112,440,141"/>
 </map>

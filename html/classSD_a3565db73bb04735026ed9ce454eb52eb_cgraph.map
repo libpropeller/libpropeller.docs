@@ -1,5 +1,5 @@
 <map id="SD::Close" name="SD::Close">
-<area shape="rect" id="node3" href="$classSD.html#ae3d681225cee64a2c7c1722f1cd9b23a" title="Resets the error flag to kNoError." alt="" coords="171,5,277,35"/>
-<area shape="rect" id="node7" href="$classSDSafeSPI.html#ae74174a2ead99e536e2942feb9019b76" title="Release the SPI bus and allow other devices to use it." alt="" coords="137,59,311,88"/>
-<area shape="rect" id="node5" href="$classSDSafeSPI.html#a4608c282f5225c559fa836d9867e6e81" title="Resets the error flag to kNoError." alt="" coords="360,5,517,35"/>
+<area shape="rect" id="node3" href="$classSD.html#ae3d681225cee64a2c7c1722f1cd9b23a" title="Resets the error flag to kNoError. " alt="" coords="171,5,277,35"/>
+<area shape="rect" id="node7" href="$classSDSafeSPI.html#ae74174a2ead99e536e2942feb9019b76" title="Release the SPI bus and allow other devices to use it. " alt="" coords="137,59,311,88"/>
+<area shape="rect" id="node5" href="$classSDSafeSPI.html#a4608c282f5225c559fa836d9867e6e81" title="Resets the error flag to kNoError. " alt="" coords="360,5,517,35"/>
 </map>

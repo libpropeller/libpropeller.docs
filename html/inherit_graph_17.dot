@@ -1,0 +1,7 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="PWM32",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classPWM32.html",tooltip="Run up to 32 channels of low speed PWM (up to ~10kHz@80MHz clock). "];
+}

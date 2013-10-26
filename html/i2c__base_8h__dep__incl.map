@@ -1,12 +1,16 @@
 <map id="i2c_base.h" name="i2c_base.h">
-<area shape="rect" id="node3" href="$eeprom_8h.html" title="eeprom.h" alt="" coords="127,83,201,112"/>
-<area shape="rect" id="node7" href="$i2c_8h.html" title="i2c.h" alt="" coords="292,83,343,112"/>
+<area shape="rect" id="node3" href="$eeprom_8h.html" title="eeprom.h" alt="" coords="193,83,268,112"/>
+<area shape="rect" id="node7" href="$i2c_8h.html" title="i2c.h" alt="" coords="407,83,457,112"/>
 <area shape="rect" id="node5" href="$eeprom_8test_8h.html" title="eeprom.test.h" alt="" coords="5,160,107,189"/>
 <area shape="rect" id="node9" href="$i2c_8test_8h.html" title="i2c.test.h" alt="" coords="131,160,205,189"/>
-<area shape="rect" id="node11" href="$max17048_8h.html" title="max17048.h" alt="" coords="229,160,323,189"/>
-<area shape="rect" id="node13" href="$max17048_8test_8h.html" title="max17048.test.h" alt="" coords="224,237,341,267"/>
-<area shape="rect" id="node16" href="$ms5611_8h.html" title="ms5611.h" alt="" coords="397,160,475,189"/>
-<area shape="rect" id="node20" href="$pcf8523_8h.html" title="pcf8523.h" alt="" coords="519,160,596,189"/>
-<area shape="rect" id="node18" href="$ms5611_8test_8h.html" title="ms5611.test.h" alt="" coords="377,237,481,267"/>
-<area shape="rect" id="node22" href="$pcf8523_8test_8h.html" title="pcf8523.test.h" alt="" coords="505,237,609,267"/>
+<area shape="rect" id="node11" href="$l3gd20_8h.html" title="l3gd20.h" alt="" coords="229,160,299,189"/>
+<area shape="rect" id="node15" href="$lsm303dlhc_8h.html" title="lsm303dlhc.h" alt="" coords="323,160,421,189"/>
+<area shape="rect" id="node19" href="$max17048_8h.html" title="max17048.h" alt="" coords="445,160,539,189"/>
+<area shape="rect" id="node21" href="$max17048_8test_8h.html" title="max17048.test.h" alt="" coords="459,237,576,267"/>
+<area shape="rect" id="node24" href="$ms5611_8h.html" title="ms5611.h" alt="" coords="613,160,691,189"/>
+<area shape="rect" id="node28" href="$pcf8523_8h.html" title="pcf8523.h" alt="" coords="728,160,805,189"/>
+<area shape="rect" id="node13" href="$l3gd20_8test_8h.html" title="l3gd20.test.h" alt="" coords="189,237,285,267"/>
+<area shape="rect" id="node17" href="$lsm303dlhc_8test_8h.html" title="lsm303dlhc.test.h" alt="" coords="309,237,435,267"/>
+<area shape="rect" id="node26" href="$ms5611_8test_8h.html" title="ms5611.test.h" alt="" coords="600,237,704,267"/>
+<area shape="rect" id="node30" href="$pcf8523_8test_8h.html" title="pcf8523.test.h" alt="" coords="728,237,832,267"/>
 </map>

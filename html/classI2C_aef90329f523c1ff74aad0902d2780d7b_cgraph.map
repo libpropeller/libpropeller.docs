@@ -1,0 +1,4 @@
+<map id="I2C::Init" name="I2C::Init">
+<area shape="rect" id="node3" href="$classI2CBase.html#a20c5c091d8b8aca59536acd667d17f62" title="Set the IO Pins to float high. " alt="" coords="123,5,221,35"/>
+<area shape="rect" id="node5" href="$classI2CBase.html#a48517316dc5a4162fd8f50fe8f769066" title="I2CBase::SetFrequency" alt="" coords="269,5,432,35"/>
+</map>

@@ -1,4 +1,4 @@
 <map id="FullDuplexSerial::PutDec" name="FullDuplexSerial::PutDec">
-<area shape="rect" id="node3" href="$classFullDuplexSerial.html#a237943408075076f2c62bad8e67f5c20" title="Transmit a byte of data." alt="" coords="225,5,369,35"/>
-<area shape="rect" id="node5" href="$classFullDuplexSerial.html#afba8572923b14acd2867bc76f275d4fe" title="Receive a byte of data." alt="" coords="419,5,565,35"/>
+<area shape="rect" id="node3" href="$classFullDuplexSerial.html#a237943408075076f2c62bad8e67f5c20" title="Transmit a byte of data. " alt="" coords="225,5,369,35"/>
+<area shape="rect" id="node5" href="$classFullDuplexSerial.html#afba8572923b14acd2867bc76f275d4fe" title="Receive a byte of data. " alt="" coords="419,5,565,35"/>
 </map>

@@ -1,9 +1,0 @@
-digraph "sd" {
-  compound=true
-  node [ fontsize="10", fontname="Helvetica"];
-  edge [ labelfontsize="10", labelfontname="Helvetica"];
-  subgraph clusterdir_34d10b20358c807fff993149200b6a31 {
-    graph [ bgcolor="#ddddee", pencolor="black", label="libpropeller" fontname="Helvetica", fontsize="10", URL="dir_34d10b20358c807fff993149200b6a31.html"]
-  dir_0638895d08edb1df0bf17b9e9e3f15fe [shape=box, label="sd", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_0638895d08edb1df0bf17b9e9e3f15fe.html"];
-  }
-}

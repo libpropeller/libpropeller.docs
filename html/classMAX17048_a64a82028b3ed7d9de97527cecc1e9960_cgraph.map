@@ -1,7 +1,7 @@
 <map id="MAX17048::Init" name="MAX17048::Init">
-<area shape="rect" id="node3" href="$classMAX17048.html#a7ebe35c9641ce2da35f8c26d77f0fbb1" title="Test the presence of the MAX17048 chip by pinging the bus." alt="" coords="167,59,319,88"/>
-<area shape="rect" id="node5" href="$classI2C.html#a11afa1921c1287013e7bcb6675878a49" title="Test for the Acknowledge of a device by sending start and the slave address." alt="" coords="368,59,445,88"/>
-<area shape="rect" id="node7" href="$classI2CBase.html#a16dc0177aab341a936f508e5e91406be" title="Output a start condition on the I2C bus." alt="" coords="508,5,617,35"/>
-<area shape="rect" id="node9" href="$classI2CBase.html#a7cdbdb037ac9b84275d5f0d04476b8ce" title="Output a byte on the I2C bus." alt="" coords="493,59,632,88"/>
-<area shape="rect" id="node11" href="$classI2CBase.html#a0e0b9bc5b9a5a34fa78187e71f3731d1" title="Output a stop condition on the I2C bus." alt="" coords="509,112,616,141"/>
+<area shape="rect" id="node3" href="$classMAX17048.html#a7ebe35c9641ce2da35f8c26d77f0fbb1" title="Test the presence of the MAX17048 chip by pinging the bus. " alt="" coords="167,59,319,88"/>
+<area shape="rect" id="node5" href="$classI2C.html#a11afa1921c1287013e7bcb6675878a49" title="Test for the Acknowledge of a device by sending start and the slave address. " alt="" coords="368,59,445,88"/>
+<area shape="rect" id="node7" href="$classI2CBase.html#a16dc0177aab341a936f508e5e91406be" title="Output a start condition on the I2C bus. " alt="" coords="508,5,617,35"/>
+<area shape="rect" id="node9" href="$classI2CBase.html#a7cdbdb037ac9b84275d5f0d04476b8ce" title="Output a byte on the I2C bus. " alt="" coords="493,59,632,88"/>
+<area shape="rect" id="node11" href="$classI2CBase.html#a0e0b9bc5b9a5a34fa78187e71f3731d1" title="Output a stop condition on the I2C bus. " alt="" coords="509,112,616,141"/>
 </map>

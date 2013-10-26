@@ -7,5 +7,5 @@ digraph "pulsewidthreader" {
   dir_7ee54772fb5f1e5b4bd27a502e582e29 [shape=box, label="pulsewidthreader", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_7ee54772fb5f1e5b4bd27a502e582e29.html"];
   }
   dir_2b17512315ec35cee8a316dc22e82742 [shape=box label="pin" URL="dir_2b17512315ec35cee8a316dc22e82742.html"];
-  dir_7ee54772fb5f1e5b4bd27a502e582e29->dir_2b17512315ec35cee8a316dc22e82742 [headlabel="1", labeldistance=1.5 headhref="dir_000016_000015.html"];
+  dir_7ee54772fb5f1e5b4bd27a502e582e29->dir_2b17512315ec35cee8a316dc22e82742 [headlabel="1", labeldistance=1.5 headhref="dir_000020_000019.html"];
 }

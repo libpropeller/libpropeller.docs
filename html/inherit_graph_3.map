@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classGPSParser.html" title="Receives and parses NMEA0183 GPS streams into C strings. " alt="" coords="5,5,93,35"/>
+<area shape="rect" id="node3" href="$classMTK3339.html" title="Summary of supported sentences (note: order changed): GLL &#45; Lat, long, time, status RMC &#45; Lat..." alt="" coords="143,5,220,35"/>
+</map>

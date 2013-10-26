@@ -8,6 +8,6 @@ digraph "gpsparser" {
   }
   dir_e83711f3713c6e1f0423bc0dfd005071 [shape=box label="serial" URL="dir_e83711f3713c6e1f0423bc0dfd005071.html"];
   dir_635c27d6e8dd9bbd90a442f2d4925d6a [shape=box label="c++allocate" URL="dir_635c27d6e8dd9bbd90a442f2d4925d6a.html"];
-  dir_bf344f9c6c32c2d52f143f81904c95da->dir_e83711f3713c6e1f0423bc0dfd005071 [headlabel="2", labeldistance=1.5 headhref="dir_000007_000022.html"];
+  dir_bf344f9c6c32c2d52f143f81904c95da->dir_e83711f3713c6e1f0423bc0dfd005071 [headlabel="2", labeldistance=1.5 headhref="dir_000007_000026.html"];
   dir_bf344f9c6c32c2d52f143f81904c95da->dir_635c27d6e8dd9bbd90a442f2d4925d6a [headlabel="1", labeldistance=1.5 headhref="dir_000007_000002.html"];
 }

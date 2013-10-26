@@ -1,0 +1,11 @@
+digraph "I2C::Init"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="I2C::Init",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="I2CBase::Init",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classI2CBase.html#a20c5c091d8b8aca59536acd667d17f62",tooltip="Set the IO Pins to float high. "];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="I2CBase::SetFrequency",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classI2CBase.html#a48517316dc5a4162fd8f50fe8f769066"];
+}
